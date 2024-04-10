@@ -1,0 +1,716 @@
+	Episesarma_versicolor1	Episesarma_versicolor2	Episesarma_versicolor3	Parasesarma_affine	Parasesarma_continentale	Orisarma_dehaani1	Orisarma_dehaani2	Orisarma_dehaani3	Orisarma_intermedium	Orisarma_sinense	Clistocoeloma_villosum	Fasciarma_fasciatum	Macrophthalmus_definitus1	Macrophthalmus_definitus2	Macrophthalmus_definitus3	Mictyris_brevidactylus	Metaplax_longipes1	Metaplax_longipes2	Metaplax_longipes3	Metaplax_tredecim1	Metaplax_tredecim2	Metaplax_tredecim3	Metaplax_tredecim4	Gelasimus_borealis1	Gelasimus_borealis2	Gelasimus_borealis3	Tubuca_arcuata1	Tubuca_arcuata2	Paraleptuca_splendida1	Paraleptuca_splendida2	Ocypode_ceratophthalmus	Hemigrapsus_penicillatus	Metopograpsus_frontalis1	Metopograpsus_frontalis2	Metopograpsus_frontalis3	Etisus_laevimanus	Leptodius_affinis	Thalamita_danae1	Thalamita_danae2	Scylla_paramamosain	Epixanthus_frontalis1	Epixanthus_frontalis2	Epixanthus_frontalis3
+[Frankia] sp. (no order in NCBI)	1	1	0	0	0	14	4	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0
+[Leptolyngbya] sp. (no order in NCBI)	0	0	0	5	0	4	0	2	0	0	0	0	19	1	17	0	0	0	0	6	0	8	0	14	18	16	26	0	319	2875	0	0	33	10	65	252	0	26	0	0	0	0	0
+[Streptomyces] sp. (no order in NCBI)	83	78	7	8	0	69	158	69	0	148	144	38	0	0	0	47	0	8	0	0	0	0	0	0	0	0	46	0	78	2	0	8	4	2	0	30	0	0	4	0	0	0	12
+Abditibacteriales	0	16	2	0	0	6	8	4	0	0	0	0	0	0	0	0	100	86	208	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acanthopleuribacterales	0	29	2	0	0	0	0	0	0	0	0	14	2	6	0	11	0	8	0	0	0	0	18	6	18	2	18	0	0	6	0	0	8	0	0	18	0	0	0	0	0	0	58
+Acholeplasmatales	4	37	40	625	0	165	10	14	211	353	98	78	8	74	9	183	0	0	0	2	8	7	316	223	244	190	94	15	0	4	48	19	56	13	34	235	8	10	10	33	629	149	841
+Acidaminococcales	2	33	0	0	2	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	8	0	40	0	0	0	3	0	0	0	0	0	10	0	0	3	0	0	0	0	0	0	2
+Acidiferrobacterales	4	76	16	0	10	0	0	0	0	7	0	0	28	23	17	61	0	27	4	1	10	26	6	36	17	12	241	0	0	2	134	6	96	30	29	535	0	0	0	0	105	4	26
+Acidimicrobiales	8948	724766	25633	13835	3671	2125	2630	674	67	761	100	4452	17198	12263	6373	26325	214	12276	179	2732	1490	9433	5672	60163	40667	24966	106031	3179	147740	250368	76	13752	26803	35605	88947	193548	68	550	7822	0	293717	38371	9589
+Acidimicrobiia bacterium (no order in NCBI)	46	1984	105	31	18	523	463	571	0	71	0	125	286	288	145	253	6	69	4	28	25	50	31	276	230	111	1509	94	530	781	0	134	196	273	507	780	0	52	20	0	1359	34	325
+Acidithiobacillales	17	331	31	14	3	0	0	0	0	0	0	112	317	251	97	769	2	1083	56	41	30	69	53	174	142	66	528	19	0	68	0	2	276	98	69	683	9	0	0	0	10	0	44
+Acidobacteria bacterium (no order in NCBI)	38	1936	158	514	96	167	403	143	0	122	39	1355	1693	1507	1125	915	56	1126	127	81	88	419	159	611	510	418	16872	206	635	469	6	207	1107	952	328	1632	14	8	40	0	16	111	699
+Acidobacteriales	30	605	2	39	0	4	16	20	0	68	0	22	0	4	0	30	6	56	2	0	35	4	10	24	11	31	355	5	68	48	0	8	69	22	31	68	0	0	0	0	4	0	10
+Acidobacteriia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	8
+Acidothermales	0	42	0	43	0	6	4	10	0	0	0	0	6	4	2	0	0	0	0	0	0	0	0	4	2	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0
+Actinobacteria bacterium (no order in NCBI)	127	14446	296	378	145	7148	17584	4781	0	470	36	2330	417	317	147	378	8	173	22	120	75	321	124	1110	993	575	27446	419	1547	2193	6	102	356	566	1260	3099	19	30	119	0	2744	99	2022
+Actinomycetales	221	20187	582	190	35	1415	905	300	22	2286	648	130	37	18	20	261	2	90	0	27	16	97	108	145	103	55	6336	130	323	384	0	6	47	158	113	402	0	2	72	0	421	43	125
+Actinopolysporales	0	54	1	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	10	0	0	4	6	0	0	0	0	0	0	0	0	0
+Aeromonadales	2805	6456	1937	1792	334	159107	13585	28014	2130	122080	363	5655	725	695	546	1026	182	85570	402	138	489	281	242	735	494	315	1977	133	135	290	105	4579	1489	540	9151	3394	1050	516	698	1863	1232	998	2883
+Aggregatilineales	0	212	2	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	6	0	0	0	0	18	0	0	4	0	0	0	4	6	0	0	0	0	0	0	0	0
+Alkalimonas (no order in NCBI)	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+alpha proteobacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	6	0	0	4	0	4	121	0	0	0	0	0	0	0
+Alphaproteobacteria bacterium (no order in NCBI)	94	3019	398	199	162	325	659	132	0	757	105	403	457	428	205	2745	71	84	158	288	283	863	275	2778	1664	1341	2196	52	3242	7478	139	796	4423	1349	3672	3757	0	8	2	0	1032	160	298
+Alteromonadales	72949	2029022	81994	438766	1093	384667	13657	130441	3572	1337351	30949	601600	2966	3138	1153	14399	1628	309843	11872	1543	2289	2694	1589	11205	9663	5477	18095	3871	3622	7456	1628664	75075	16255	1215557	46618	67065	3403	33660	111133	27	7307	1819	14573
+Anaerolineae bacterium (no order in NCBI)	79	5761	341	0	111	0	0	0	0	0	0	0	661	708	346	910	2	161	27	41	28	489	148	89	64	23	2601	129	248	299	0	6	168	285	223	779	95	0	106	0	1779	5	410
+Anaerolineales	841	95829	786	283	180	473	276	283	0	120	75	65	1532	1733	621	1762	16	861	197	151	108	583	206	632	442	265	19763	483	3087	1844	8	38	506	806	580	1700	488	6	48	18	2010	1524	5415
+Anaeroplasmatales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	2	4	0	147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anoxychlamydiales	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	4	0	8	0	0	0	10	0	0	0	0	6	0	0	0	0	0	108	2	2	0	0	0	0	0	0	0	0
+Aquificales	197545	37195	165523	101204	22863	113839	164979	99013	272247	165870	406333	453878	179063	137619	212756	585421	254254	489720	338364	842625	816355	643447	775949	383161	390002	402799	82169	113009	144844	82254	296406	687547	382561	454734	571923	320571	661058	129945	167600	1464	507388	565806	494397
+Ardenticatenales	8	1225	44	18	14	32	8	30	0	0	4	20	50	80	14	269	0	0	0	8	22	86	32	59	45	16	1868	245	696	448	18	24	69	131	70	155	138	0	0	0	16	28	534
+Ardenticatenia bacterium (no order in NCBI)	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	4
+Arenicellales	8	279	24	59	0	0	0	0	0	0	0	18	0	37	0	42	14	0	0	0	15	5	10	25	16	9	87	0	0	14	0	0	83	51	40	331	60	5	0	0	340	0	85
+Armatimonadales	0	0	0	12	4	32	19	21	0	0	0	24	10	8	2	62	0	4	16	0	6	4	2	57	49	25	30	0	0	4	0	0	22	8	36	49	0	0	0	0	0	0	0
+Armatimonadetes bacterium (no order in NCBI)	6	346	7	15	6	0	2	2	0	0	0	6	26	33	10	75	0	0	0	4	4	2	18	33	21	14	138	4	52	63	0	8	19	60	41	148	0	0	0	0	14	0	8
+Bacillales	17494	19665	14360	30629	176	67727	36210	68238	4842	25608	19114	21245	876	1562	555	34225	19337	61499	38338	31151	29701	30179	35223	18231	16328	11643	19422	7947	3902	9981	64140	79798	27367	27655	35333	50611	5028	1419	6607	33212	64308	20737	99098
+Bacilli bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteriodetes bacterium (no order in NCBI)	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteriovoracales	34	102	28	33	0	23	27	4	0	22	0	577	0	0	0	26	8	12	0	2	22	0	26	18	17	6	66	2	146	199	0	6	74	15	40	36	6	22	0	0	0	116	52
+bacterium 336/3 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium ADurb.Bin425 (no order in NCBI)	0	0	0	0	0	6	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium ADurb.Bin429 (no order in NCBI)	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium ADurb.Bin431 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium ADurb.BinA028 (no order in NCBI)	0	0	0	0	0	33	28	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium AH-315-E10 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium AH-315-K03 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	3	0	0	0	0	0	0	0	0	0
+bacterium AMD01 (no order in NCBI)	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium AMD02 (no order in NCBI)	0	0	0	0	0	34	7	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium BFN5 (no order in NCBI)	0	66	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium BMS3Abin11 (no order in NCBI)	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium BMS3Bbin10 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	99	0	0
+bacterium BMS3Bbin11 (no order in NCBI)	0	16	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium endosymbiont of Escarpia laminata (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	119	0	0	0	0	0	0	0
+bacterium HR12 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	44	23	31	0	0	0	0	0	0	0	0
+bacterium HR29 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium HR39 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium J17 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12
+bacterium JGI (no order in NCBI)	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium M21 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0
+bacterium MnTg02 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	44	0	0	0	0	0	0	0
+bacterium MnTg03 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	55	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium NHP-B (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	61	37	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	8	0	0	0	0	0	0	0	0
+bacterium SCGC (no order in NCBI)	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium symbiont of Theonella swinhoei pTSMAC1 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+bacterium TMED277 (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	4	0	2	0	0	0	19	0	6	8	4	0	10	0	0	0	0	0	0	0
+bacterium TMED88 (no order in NCBI)	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	6	63	2	0	23	0	0	0	0	0	0	0
+Bacteroidales	12567	143051	28584	6380	87	2724	247	430	7191	1357	988	10775	313	369	97	3287	7775	36460	28737	1633	1939	23300	4323	4231	3616	872	45317	22039	409	1444	1395	4412	3617	871	3299	1589	306	1119	522	1015	1208018	1134079	755816
+Bacteroidetes bacterium (no order in NCBI)	134	1139	235	186	169	43	8	4	192	35	0	357	3066	3830	1561	1798	10	51	84	602	1466	2713	484	13788	10178	5505	255	37	54	890	132	407	7844	1949	1889	2325	163	1156	22	76	322	276	352
+Bacteroidetes Order II. Incertae sedis	6	213	18	15	0	8	6	0	11	0	0	20	15	17	4	36	0	4	0	8	79	11	67	72	47	55	76	10	16	60	0	18	107	42	64	261	0	9	0	0	41	8714	5504
+Bacteroidia bacterium (no order in NCBI)	13	558	40	54	50	26	1	2	12	4	22	22	297	259	106	278	8	176	23	43	22	276	72	347	223	120	2197	56	0	22	0	0	510	433	63	170	0	0	6	0	0	42	2
+Balneolales	17	660	59	49	22	21	4	2	0	0	6	22	109	148	44	272	2	114	215	38	32	169	80	235	145	94	409	31	0	77	82	44	928	228	123	551	38	25	34	0	42	836	125
+Bathymodiolus brooksi thiotrophic gill symbiont (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0
+Bathymodiolus platifrons methanotrophic gill symbiont (no order in NCBI)	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bdellovibrionales	13	323	62	152	2	107	48	95	0	91	0	1479	25	54	12	172	6	93	2	22	38	63	628	124	205	93	298	8	38	72	21	10	119	257	127	176	0	362	0	0	304	14	85
+Betaproteobacteria bacterium (no order in NCBI)	10	334	28	416	20	59	13	27	0	0	46	308	1826	2525	1344	75	23	5111	376	148	157	256	98	816	801	564	11078	267	36	108	0	32	1130	296	383	700	0	0	0	0	2	4	14
+Bifidobacteriales	2	202	17	175	11	374	56	290	0	115	0	83	20	2	4	22	0	0	0	14	2	25	141	63	72	55	255	226	86	15	0	17	15	139	11	20	0	0	25	52	19	10	19
+Blastocatellales	0	76	4	123	0	12	14	22	0	9	0	70	14	1	2	242	2	10	0	0	1	6	5	43	26	22	177	2	0	28	0	0	77	43	6	99	0	4	49	0	7766	28	32
+Blastocatellia bacterium (no order in NCBI)	0	0	0	0	0	0	4	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	36	0	0	0	0	0	11	0	0	0	0	0	0	0
+Brachyspirales	26	143	12	82	6	44	2	16	149	54	90	54	4	4	6	0	0	15	17	5	16	55	65	32	17	0	60	26	0	14	0	0	43	10	93	20	12	0	42	10	548	125	610
+Bradymonadales	7	222	11	0	0	0	0	0	0	0	0	2	21	22	12	10	0	11	4	3	14	18	14	33	29	10	82	0	66	53	61	56	45	4	31	67	0	8	0	0	175	48	388
+Bryobacterales	26	892	100	71	4	10	0	4	4	0	0	282	72	66	17	38	6	584	25	0	5	54	10	88	73	37	1021	40	88	66	6	4	92	76	49	127	8	4	0	0	0	62	194
+Burkholderiales	2715	31255	2283	11923	536	108695	10392	4284	995	45106	407	100834	4042	4722	2112	9975	719	59635	4200	679	1223	2516	1447	8001	6052	3694	703998	6582	3806	5162	340	1950	8549	5306	6271	33102	363	933	461	50	4254	1680	3020
+Caldilineae bacterium (no order in NCBI)	2	348	18	0	0	0	0	0	0	0	0	0	5	4	0	24	0	0	0	0	0	0	0	0	2	0	20	2	0	6	0	0	12	12	6	15	0	0	0	0	0	0	16
+Caldilineales	239	1282	348	90	0	62	23	38	0	2	0	14	85	67	28	1048	0	32	1	15	157	26	4	318	212	156	3065	51	574	715	0	8	85	149	346	325	304	0	6	0	18	8	151
+Calditrichae bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0
+Calditrichaeota bacterium (no order in NCBI)	0	14	6	8	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calditrichales	53	92	16	42	12	16	0	0	0	0	0	19	36	48	4	71	6	26	8	4	13	85	47	85	46	29	94	8	8	9	0	0	77	62	31	265	0	0	0	0	0	58	123
+Campylobacterales	4004	9974	7484	6655	557	24349	6752	5220	5724	3522	6273	47002	3232	2673	3675	5677	1592	20981	701619	2054	15972	1871	3453	5762	3199	2570	133954	5142	11387	149476	1513612	4452	4561	3486	8764	11029	4026	3321	2155	95338	2398735	129992	1951922
+candidate division (no order in NCBI)	34	443	28	6	2	3	7	0	38	4	0	0	22	30	10	26	2	51	8	0	2	6	6	145	144	117	152	0	40	12	0	0	78	16	2	202	0	0	18	0	0	20	30
+Candidatus Abyssubacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	6	2	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Accumulibacter (no order in NCBI)	36	488	31	4	47	107	14	65	0	2	0	86	106	148	34	199	2	524	54	15	10	72	26	137	69	43	2402	54	132	175	0	4	186	126	135	1265	0	0	0	0	0	0	0
+Candidatus Acetothermia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Acidoferrales	0	0	0	0	0	0	35	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	184	341	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Actinomarinales	0	0	0	0	0	6	1	2	0	0	0	0	10	4	2	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Adamsella (no order in NCBI)	0	74	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	14	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Adiutrix (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Aegiribacteria (no order in NCBI)	0	25	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Aerophobetes bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Alloclostridium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Aminicenantes bacterium (no order in NCBI)	4	88	4	6	0	0	0	0	0	0	0	0	0	4	0	0	0	45	8	0	0	0	0	51	70	49	299	0	0	0	0	0	10	3	7	16	0	0	0	0	0	0	0
+Candidatus Aquidulcis (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Atribacteria bacterium (no order in NCBI)	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Avimicrobium (no order in NCBI)	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Avimonas (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0
+Candidatus Babeliales	0	0	0	34	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	0	4	0	0	12	0	0	0	0	0	0	0	0	0	0
+Candidatus Beckwithbacteria bacterium (no order in NCBI)	0	6	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Berkelbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Binatales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Brocadiae bacterium (no order in NCBI)	0	38	10	0	0	0	0	0	0	0	0	0	6	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Brocadiales	0	369	33	34	0	10	0	0	0	0	0	8	47	51	8	131	0	16	2	0	2	81	8	110	45	52	263	0	10	115	0	0	82	38	52	1575	0	20	22	0	7	14	152
+Candidatus Caenarcaniphilales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0
+Candidatus Caldatribacterium (no order in NCBI)	0	4	4	0	0	0	0	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Campbellbacteria bacterium (no order in NCBI)	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	13	6	0	0	0	47	0	0	0	0	0	0	0	0	0	0	119	220	0
+Candidatus Chazhemtobacteraceae (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Cloacimonetes bacterium (no order in NCBI)	0	4	1	0	0	10	8	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Competibacteraceae (no order in NCBI)	903	1049	117	54	10	77	14	14	0	0	8	86	336	445	110	416	2	407	88	49	95	126	56	365	276	158	1968	68	192	200	28	0	615	376	510	7713	60	2	45	0	123	160	466
+Candidatus Curtissbacteria bacterium (no order in NCBI)	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Dadabacteria bacterium (no order in NCBI)	21	228	29	100	6	0	0	0	0	26	0	8	0	0	0	599	0	32	6	5	0	12	6	0	0	0	773	11	0	27	0	0	567	33	891	82	78	19	0	0	57	40	302
+Candidatus Daviesbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Delongbacteria bacterium (no order in NCBI)	4	38	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16
+Candidatus Dependentiae bacterium (no order in NCBI)	0	0	0	16	0	249	12	8	0	120	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Desantisbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0
+Candidatus Desulfobacillus (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0
+Candidatus Desulfofervidaceae (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Dojkabacteria bacterium (no order in NCBI)	2	6	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0
+Candidatus Dormibacter (no order in NCBI)	0	17	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	2	0	0	0	0	0	0	0
+Candidatus Dormibacteraeota bacterium (no order in NCBI)	0	6	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	374	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Doudnabacteria bacterium (no order in NCBI)	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Eisenbacteria bacterium (no order in NCBI)	0	10	0	0	0	0	0	0	0	0	0	0	0	0	2	16	0	0	0	0	0	0	0	8	9	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0
+Candidatus Entotheonella (no order in NCBI)	11	800	56	84	52	14	277	12	0	0	12	2010	71	74	26	16	0	4	0	26	11	104	24	151	119	58	1457	97	430	347	0	18	142	124	148	1836	6	0	10	0	34	22	163
+Candidatus Eremiobacteraeota bacterium (no order in NCBI)	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Falkowbacteria bacterium (no order in NCBI)	0	0	0	0	0	8	10	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Fermentibacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Gallispira (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	44	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Gastranaerophilales	15	312	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Gracilibacteria bacterium (no order in NCBI)	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	47	327	36	0	0	0	32	0	0	0	0	0	0	0	6	0	0	636	471	0
+Candidatus Hakubanella (no order in NCBI)	0	3	0	0	0	0	0	0	0	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	8	11	0	0	0	0	0	0	0
+Candidatus Handelsmanbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0
+Candidatus Heteroscilispira (no order in NCBI)	0	0	0	0	0	12	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Hydrogenedens (no order in NCBI)	0	31	0	0	0	0	0	0	0	0	0	0	4	2	0	23	0	0	0	0	0	10	0	2	9	0	0	0	0	0	0	0	0	0	2	7	0	0	0	0	0	0	0
+Candidatus Hydrogenedentes bacterium (no order in NCBI)	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	16	2	0	0	0	0	2	0	0	10	0	0	0	0	0	0	0
+Candidatus Izimaplasma (no order in NCBI)	3	25	0	4	0	0	0	0	4	10	20	0	0	0	0	47	0	0	0	0	0	11	16	6	2	2	0	0	0	0	0	0	40	5	7	30	0	0	0	0	0	0	0
+Candidatus Kaiserbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	2	0	0	8	0	0	0	0	103	0	0	0	0	0	0	0
+Candidatus Kentron (no order in NCBI)	10	149	8	0	0	0	0	0	0	0	0	0	172	233	94	288	9	24	6	6	1	18	12	207	181	81	343	19	42	56	11	0	316	124	133	8034	18	0	0	0	6	16	0
+Candidatus Krumholzibacteriota bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	10	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Latescibacteria bacterium (no order in NCBI)	0	0	0	29	0	0	0	0	0	0	0	0	1	2	0	104	0	0	0	0	0	0	0	3	0	4	0	0	0	0	0	0	4	0	0	28	0	0	0	0	0	0	0
+Candidatus Levybacteria bacterium (no order in NCBI)	2	74	0	0	0	0	0	0	0	4	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Magasanikbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Margulisbacteria bacterium (no order in NCBI)	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Marinamargulisbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0
+Candidatus Marinimicrobia bacterium (no order in NCBI)	0	16	20	0	0	0	0	0	0	0	0	0	2	4	2	0	0	0	0	0	0	0	0	17	11	4	0	0	0	0	0	0	6	2	2	0	0	0	0	0	0	0	0
+Candidatus Melainabacteria bacterium (no order in NCBI)	18	879	5	0	0	4	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Metalachnospira (no order in NCBI)	0	0	0	0	0	2	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Methylomirabilis (no order in NCBI)	0	30	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	16	6	0	0	0	0	0	0	4	6	17	117	0	0	0	0	0	0	0
+Candidatus Micropelagos (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	4	0	4	0	0	0	27	0	0	0	0	13	0	4
+Candidatus Moduliflexus (no order in NCBI)	20	180	4	8	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	9	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Moranbacteria bacterium (no order in NCBI)	24	1347	10	2	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Muproteobacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Nanopelagicales	0	4	4	0	0	0	0	0	0	0	0	0	32	14	2	79	0	0	0	0	2	0	2	252	265	124	20	0	40	16	0	0	8	32	17	228	0	0	0	0	115	25	2
+Candidatus Nanosynbacterales	0	0	0	0	0	269	73	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	6	0	0	16	0	0	0	0	0	0	0	10	29	0
+Candidatus Nanosyncoccales	0	0	0	0	0	13	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Nardonella (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Nealsonbacteria bacterium (no order in NCBI)	6	129	2	10	0	0	0	0	0	0	0	0	28	10	2	89	0	22	2	2	0	0	2	30	17	23	107	0	0	0	0	0	10	24	8	46	0	0	0	0	0	0	0
+Candidatus Neoanaerotignum (no order in NCBI)	0	31	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Niyogibacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Obscuribacterales	0	29	0	0	0	22	0	10	0	0	4	28	0	0	0	0	0	8	2	0	4	2	4	0	0	0	71	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Omnitrophica bacterium (no order in NCBI)	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	12	0	0	0	0	0	4	2	0	46	0	0	0	0	0	0	0
+Candidatus Omnitrophus (no order in NCBI)	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Pacebacteria bacterium (no order in NCBI)	30	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Pararuminococcus (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0
+Candidatus Parcubacteria bacterium (no order in NCBI)	26	16	4	0	0	0	0	0	0	0	0	0	6	9	0	0	0	0	0	0	0	8	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Peribacterales	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Phycosocius (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	3
+Candidatus Poribacteria bacterium (no order in NCBI)	0	17	0	0	10	0	8	0	0	0	0	0	3	6	2	9	0	0	0	12	8	32	16	0	0	0	0	0	0	6	0	0	24	22	2	44	0	8	0	0	0	0	0
+Candidatus Puniceispirillum (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	6	0	0	16	2	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0
+Candidatus Reidiella (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	80	0	0	0	0	0	14	4	2	180	0	0	0	0	0	0	0
+Candidatus Riflebacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Roizmanbacteria bacterium (no order in NCBI)	0	16	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Rokubacteria bacterium (no order in NCBI)	0	50	4	0	0	2	89	24	0	0	0	16	13	13	6	0	0	0	0	2	2	0	2	15	22	13	121	0	48	16	0	0	3	2	10	46	0	0	0	0	0	0	0
+Candidatus Roseilinea (no order in NCBI)	0	0	0	0	0	80	12	54	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0
+Candidatus Saccharibacteria bacterium (no order in NCBI)	143	974	205	309	4	2530	716	278	0	2282	20	2451	12	28	8	193	12	256	95	0	0	16	16	23	42	6	253	40	10	619	0	0	89	46	114	188	0	28	135	0	152	126	0
+Candidatus Saccharimonales	0	0	0	0	0	44	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Saccharimonas (no order in NCBI)	2	28	4	14	0	4	2	0	0	16	0	274	0	0	0	0	0	0	0	0	0	0	0	7	8	4	45	42	86	55	0	4	0	0	0	12	0	0	0	0	12	21	0
+Candidatus Shapirobacteria bacterium (no order in NCBI)	8	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Stahlbacteria (no order in NCBI)	16	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0
+Candidatus Sumerlaeota bacterium (no order in NCBI)	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Tectomicrobia bacterium (no order in NCBI)	0	0	0	0	0	0	30	4	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Thermofonsia Clade (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	16	4	0	0	0	0	0	0	0	0	0
+Candidatus Thiodiazotropha (no order in NCBI)	5	72	14	6	2	0	0	0	0	0	0	0	65	43	31	6	16	8	0	9	4	6	4	76	64	35	20	0	0	0	0	0	243	83	20	7146	0	0	0	0	0	0	0
+Candidatus Thioglobus (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	10	20	1	12	0	0	0	0	0	6	2	50	48	18	0	0	88	0	0	0	88	23	8	271	0	0	0	0	0	2	33
+Candidatus Uhrbacteria bacterium (no order in NCBI)	0	12	0	7	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Vecturithrix (no order in NCBI)	6	69	4	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	13	0	6	0	0	0	0	0	2	0	12	0	6	0	0	0	0	0	0
+Candidatus Wallbacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidatus Woesebacteria bacterium (no order in NCBI)	2	27	4	0	0	0	0	0	0	0	0	0	9	23	2	41	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	14	0	0	6	0	0	0	0
+Capsulimonadales	0	18	4	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	2	44	0	0	2	0	0	0	0	0	18	0	0	0	0	0	0	0
+Cardiobacteriales	207	1116	1223	19423	0	15147	796	99	0	0	4	280	19	16	1	0	0	32	10	0	0	6	7	740	997	139	0	0	14	1242	8	0	703	272	20	31	42	8	26530	0	89	8	24
+Catenulisporales	2	65	16	0	0	18	50	2	0	26	11	0	0	0	0	0	0	0	0	0	0	0	0	20	3	2	0	0	54	18	18	0	0	0	6	4	0	0	0	0	0	0	0
+Caulobacterales	108	1660	79	1137	67	756	392	125	52	6947	123	1503	356	262	116	671	104	522	125	87	549	276	400	467	372	227	4036	56	214	519	19	290	513	393	454	1171	8	376	30	0	409	130	363
+Celerinatantimonadaceae (no order in NCBI)	1255	18756	306	837	516	0	0	0	32	262	0	8	0	0	0	0	10	0	0	115	6779	41	6277	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0
+Cellvibrionales	57899	705226	30164	27637	30763	8768	34746	912	55	4697	233	492009	210250	202806	83119	893463	31099	28097	26678	60726	115872	192385	87281	1024413	837976	536279	368119	31013	50716	60992	54070	340264	1509594	515483	1468980	1687610	34061	395627	7107	0	59894	7249	9131
+Chitinispirillales	0	46	0	23	0	0	0	0	0	3	0	0	2	0	0	47	8	0	0	0	0	0	0	6	7	1	4	0	0	4	0	0	0	0	0	0	0	0	0	0	6	0	0
+Chitinivibrionales	5	89	12	6	0	8	0	0	16	0	0	0	3	4	6	0	0	0	0	0	0	0	0	10	8	14	29	2	0	8	0	0	20	11	9	129	0	0	0	0	0	2	14
+Chitinivibrionia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chitinivorax (no order in NCBI)	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0
+Chitinophagales	204	1390	294	2931	8	528	284	164	81	939	10	69631	140	153	22	1266	24	1723	144	76	145	456	175	3632	2907	1595	13184	346	432	1278	3291	298	1807	487	389	441	162	411	32	0	12204	28196	216
+Chitinophagia bacterium (no order in NCBI)	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0
+Chlamydiae bacterium (no order in NCBI)	4	24	0	87	0	0	0	0	0	4	0	16	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chlamydiales	0	46	0	60	0	16	28	77	98	0	0	0	0	0	0	394	0	0	0	0	0	0	0	25	25	53	4	0	2	44	0	6	4	2	25	33	1	5	52	0	16	7	2
+Chloracidobacterium (no order in NCBI)	0	36	0	0	0	70	14	28	0	0	0	13	0	0	0	0	0	0	9	0	0	0	0	28	11	3	36	0	0	20	0	0	10	10	2	6	0	0	0	0	617	0	0
+Chlorobi bacterium (no order in NCBI)	0	68	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Chlorobia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chlorobiales	189	1221	131	85	12	0	1	0	109	26	0	28	50	61	28	95	0	4	0	67	73	97	70	94	83	42	200	19	0	126	0	62	275	149	284	227	0	0	0	0	0	12	25
+Chloroflexales	29	1066	52	1081	14	24	21	136	0	536	0	14	118	133	38	551	0	82	6	21	11	71	82	140	94	46	3293	53	115	150	0	22	225	124	89	562	18	0	8	0	118	22	536
+Chloroflexi bacterium (no order in NCBI)	265	23988	1257	173	1178	196	1002	254	0	89	25	264	2370	1412	822	1898	29	683	170	451	204	1602	448	1445	1140	383	30201	411	2747	4548	0	28	1918	3265	3856	4930	260	8	140	0	430	116	923
+Chloroflexia bacterium (no order in NCBI)	0	197	0	4	0	376	406	2762	0	40	0	220	0	0	0	0	0	0	0	0	0	0	0	0	0	0	112	2	51	31	0	0	28	121	11	1	8	0	10	0	0	0	0
+Chromatiales	1705	44188	3714	7521	7170	226	393	222	25	210	31	3167	64889	74328	29191	142735	5991	33466	2653	13836	21573	50861	17711	169274	114480	78358	81624	4474	14846	21218	460	3500	106762	81979	34868	115869	302	1747	685	0	410	140	1684
+Chroococcales	62	1140	61	901	157	114	50	168	6	143	116	92	12652	40083	6595	30736	11	144	41	16831	5632	10446	3949	52980	50243	38077	38624	4682	2260	18098	9	51	68728	30510	2965	2076	329	8	0	11	261	99	269
+Chroococcidiopsidales	0	8	0	11	0	5506	1736	8156	0	28	0	0	2	7	0	82	12	4	0	4	17	16	30	17	24	17	1912	4	178	471	0	33	363	2623	32	73	33	0	14	0	0	0	0
+Chrysiogenales	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	12	6	0	0	2	8	3	0	0	0	0	0	0	0	0
+Chthoniobacterales	24	2308	128	777	150	210	177	4	0	75	0	696	317	191	95	274	0	8	4	67	21	436	94	58	48	37	1877	50	82	101	0	174	120	356	19	74	0	0	8	0	0	9	65
+Chthonomonadales	11	107	0	18	0	4	4	8	0	0	0	6	17	16	3	0	0	10	0	0	0	0	0	5	2	0	34	57	0	26	0	0	0	0	0	12	0	0	0	0	0	0	10
+Clostridia bacterium (no order in NCBI)	0	85	8	0	0	7	4	0	0	130	0	0	0	0	0	0	0	2	22	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	9
+Coprothermobacterales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0
+Coriobacteriales	39	104	7	23	0	82	18	22	18	48	28	13	21	12	14	71	6	2	2	0	0	6	0	62	53	43	147	2	0	2	332	48	49	59	35	6	0	6	0	0	477	97	813
+Coriobacteriia bacterium (no order in NCBI)	0	0	0	0	0	17	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0
+Corynebacteriales	2711	671424	5840	3304	927	79983	131364	74958	375	10606	4368	122395	3962	2771	1476	5401	137	2042	311	762	490	3405	1065	5047	3763	2681	40029	1014	13468	13786	81	2966	5414	10899	5947	9163	31	630	3402	0	5444	1448	1394
+Cryptosporangiales	2	227	0	161	0	73	79	44	0	2739	277	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	261	0	0	12	0	14	2	8	0	10	0	0	14	0	0	0	0
+Culicoidibacterales	0	6	2	27	0	15	6	52	0	25	22	90	0	0	0	0	0	4	90	41	8	28	14	18	7	11	13	41	0	72	64	0	34	52	6	9	3	0	23	0	131	49	148
+Cyanobacteria bacterium (no order in NCBI)	30	37	13	4	0	46	17	68	0	0	0	113	2	30	4	18	0	16	0	2	0	2	0	82	64	70	4223	65	16	58	0	0	41	218	0	0	0	0	0	0	0	0	0
+cyanobacterium G8-9 (no order in NCBI)	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+cyanobacterium TDX16 (no order in NCBI)	20	3060	22	58	0	189	77	176	0	38	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	186	1	10	2	0	4	0	107	0	11	0	0	4	0	0	0	0
+Cytophagales	2908	25735	7941	13086	624	3465	2106	643	1177	1193	4440	242235	4133	5972	1855	60697	494	4629	6417	1692	3062	10773	3052	46767	33670	20121	16030	8174	4914	17541	2867	2655	45264	14260	20923	27155	8245	4425	565	239	11410	25215	10892
+Cytophagales bacterium (no order in NCBI)	2	4	0	0	0	14	0	6	16	0	0	4	4	2	0	46	0	0	0	0	10	13	6	5	2	4	10	6	0	16	9	0	18	2	2	18	0	4	0	0	56	10	21
+Cytophagia bacterium (no order in NCBI)	0	8	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	2	6	0	0	0	0	0	0	0	0
+Deferribacterales	27	203	6	0	4	0	0	0	6	0	0	0	9	9	0	46	0	0	0	4	0	16	2	0	8	0	28	0	0	8	0	0	0	0	0	48	0	0	0	0	0	0	24
+Deferribacteres bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	10	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dehalococcoidales	8	94	0	0	2	0	0	0	0	0	0	0	0	18	2	30	0	4	2	1	4	14	4	6	8	2	50	0	16	51	0	8	9	4	18	64	0	0	0	0	0	16	0
+Dehalococcoidia bacterium (no order in NCBI)	2	32	1	10	0	0	0	22	0	5	0	0	16	18	6	0	0	370	90	0	0	0	0	0	0	0	216	0	0	10	0	0	15	2	2	52	0	0	0	0	2	0	10
+Dehalogenimonas (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Deinococcales	10	592	58	66	0	106	59	75	0	22	24	66	44	63	14	55	22	66	4	3	4	41	8	69	35	25	350	126	46	60	0	0	63	89	60	129	0	0	0	44	123	22	58
+Deinococcus-Thermus bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	2	4	2	0	0	0	0	0	0	0	0	7	8	6	10	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0
+delta proteobacterium (no order in NCBI)	2	53	12	0	6	0	0	0	0	0	0	0	0	0	0	8	0	0	0	2	6	10	0	0	0	0	6	0	0	0	0	0	5	5	1	18	0	0	0	0	0	0	0
+Deltaproteobacteria bacterium (no order in NCBI)	166	2744	461	222	278	28	75	12	58	59	58	357	1911	3342	862	342	40	3206	833	155	220	818	543	1008	655	387	4772	62	116	233	0	40	827	711	326	5539	0	6	10	0	54	97	394
+Desulfarculales	23	429	44	0	4	0	6	10	0	0	0	0	10	27	12	36	0	10	2	4	6	22	14	5	10	1	52	2	0	10	0	0	32	3	8	195	0	0	72	0	0	0	0
+Desulfobacterales	51652	712353	113756	3924	4291	2097	1127	856	10123	593	606	6061	26046	35076	13725	170414	6584	22904	7575	17112	21703	30715	24262	107253	74049	46985	27690	1626	24290	42824	8	424	166697	111418	161255	395179	807	348	864	36	1089764	83330	439636
+Desulfovibrionales	9182	53008	6403	306	67	72	11	24	399	22	26	103	152	279	83	559	69	305	157	365	38586	557	7768	604	389	282	572	234	25	192	0	76	2495	421	1263	2127	76	650	6	0	327527	551616	549302
+Desulfurellales	57	387	20	186	0	660	53	169	0	209	4	227	2	4	0	402	0	56	38	0	0	51	4	107	32	21	1055	0	14	188	0	12	68	8	0	119	0	0	6	0	8	2	6
+Desulfurobacteriales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	3	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0
+Desulfuromonadales	773	5241	902	69	31	70	4	35	1628	7	4	94	894	1048	486	1663	8	397	83	35	119	245	125	673	492	320	1554	61	431	1517	0	61	703	920	506	7106	26	50	10	0	105	8	501
+Dethiosulfatibacter (no order in NCBI)	0	0	0	7	0	0	0	0	142	0	0	10	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	4	20
+Dissulfuribacter (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0
+Dissulfurirhabdaceae (no order in NCBI)	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	2	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eggerthellales	0	84	2	8	0	40	0	0	20	0	0	7	4	1	2	24	0	0	0	0	0	0	0	0	0	0	76	0	48	38	0	0	68	43	48	0	0	209	0	0	35	2	22
+Egibacterales	10	230	2	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	18	0	0	0	0	4	10	0	0	0	0	43	0	0
+Egicoccales	2	386	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	8	6	2	4	0	50	0	39	105	0	0	0	0	0	0	0	0	0	0	0	18	0
+Elusimicrobia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Elusimicrobiales	0	0	0	0	0	0	0	0	0	0	0	0	6	11	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	109	23	207
+Emcibacterales	113	898	90	35	10	0	0	6	6	27	0	0	49	97	21	21	0	0	18	4	21	34	27	60	22	18	158	0	2139	383	0	16	152	94	2	31	0	14	0	0	12	0	14
+Endomicrobiales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	14	2	0	0	0	0	0	0	0	0	0	0	0	8	69	0	0	0	0	0	0	0
+endosymbiont of Escarpia spicata (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	18	18	6	10	0	0	0	0	0	0	0	5	3	2	0	0	0	0	0	0	15	9	0	15	0	0	0	0	0	0	0
+endosymbiont of Lamellibrachia barhami (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61	0	0	0	0	0	0	0
+endosymbiont of Ridgeia piscesae (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	16	11	1	0	0	0	0	0	0	0	0	11	4	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+endosymbiont of Seepiophila jonesi (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	6	2	0	0	0	0	0	0	0	0
+endosymbiont of Tevnia jerichonana (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	37	36	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	0
+endosymbiont of unidentified scaly snail isolate Monju (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	4	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enterobacterales	55924	43382	18511	23566	11514	14673902	83885	49441	21511	1618135	29541	36579	8924	4936	15665	12466	3504	10211	7331	2378	4746	6363	3616	11757	9214	7825	16825	13349	20044	6595	12350	7261	50047	47212	55425	22004	5665	15703	57684	318	26275	18409	30346
+Entomoplasmatales	315	2282	333	9024	36	3233	1275	5649	449	9528	1235	5592	14	48	12	1732	32	331	168	79	181	199	685	350	811	110	293	50	58	8971	94	1183	187255	82434	164367	1581	499	2	450	8023	1713	468	696
+Epsilonproteobacteria bacterium (no order in NCBI)	0	14	2	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	1	0	4	8	0	0	0	0	0	19	4	0	0	0	0	0	0	0	0	0
+Erysipelotrichales	30	412	22	2894	104	2401	216	1323	263	645	532	1520	49	144	24	1522	533	3742	16031	798	1464	11534	2414	12601	7808	5308	15214	23428	151	750	998	359	1042	296	619	909	318	0	170	1573	4006	944	3926
+Erysipelotrichia bacterium (no order in NCBI)	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	3	8	0	0	0	0	0	0	0	0	0
+Eubacteriales	4918	76525	7487	33061	210	823659	14471	168009	56759	35313	82382	127939	3712	4020	3136	211587	11946	4961	42357	7182	8827	27209	36724	41465	38528	13835	99177	26012	2334	16745	989	2007	10695	4931	17665	66986	17865	2124	1265	8463	425042	156465	573684
+Euzebyales	35	3362	209	39	18	39	71	107	20	55	287	6	63	61	20	367	0	39	0	18	0	58	22	146	109	75	808	56	2668	3674	0	10	101	72	146	479	0	26	10	0	725	64	4
+Ferrovales	0	16	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibrobacterales	28	272	59	40	0	21	0	16	12	13	0	24	2	0	6	0	0	0	0	2	0	7	20	0	0	0	50	13	298	14	0	0	6	6	6	6	25	0	0	0	276	36	243
+Fimbriimonadales	0	6	0	0	0	0	0	0	0	0	8	0	0	0	0	6	0	0	0	0	0	0	0	132	150	205	12	0	6	14	0	0	0	0	0	0	0	0	0	0	0	0	0
+Firmicutes bacterium (no order in NCBI)	0	26	0	11	0	0	0	10	0	0	9	12	2	2	6	0	0	4	0	6	0	3	6	0	0	0	29	0	0	10	0	0	0	0	0	0	12	0	0	0	11	0	0
+Flavobacteria bacterium (no order in NCBI)	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Flavobacteriales	35675	238121	817583	180321	6123	67142	47780	10062	15070	11213	12495	342696	51555	57963	27134	199822	9745	50252	184747	18524	49898	95031	26955	397860	289736	204243	34663	1193395	18084	307390	2365114	42735	1013037	129947	205762	378184	34165	45804	116129	1206	446617	1557855	744013
+Flavobacteriia bacterium (no order in NCBI)	0	18	18	0	2	38	2	0	0	0	0	0	8	9	0	0	0	0	12	5	11	22	20	54	57	46	6	23	0	12	3	30	52	11	14	59	0	117	7	0	0	90	0
+Frankiales	242	10509	414	267	57	1092	694	790	305	1302	618	302	206	117	44	188	0	126	17	39	17	151	34	110	61	30	3621	17	786	850	0	75	116	204	148	151	0	6	32	0	256	36	96
+Fusobacteriales	74	155504	89	44111	2	2374	138	784	407	570	641	1593	22	95	19	2185	133	88	648	98	187	754	509	418	701	547	349	280	218	197	156	97	712	403	14846	1635	216	20712	223	2068	11949	180991	25920
+Fusobacteriia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	66	0	0
+Gaiellales	0	17	0	0	0	0	106	27	0	56	0	22	0	0	0	73	0	10	0	0	0	0	0	0	0	0	521	0	26	130	0	0	4	4	1	8	0	0	0	0	0	0	16
+Gallaecimonas (no order in NCBI)	150	108	23	437	2	0	0	0	20	2973	0	16	0	0	0	0	0	0	0	0	52	0	20	0	0	0	37	0	0	0	0	0	2	0	6	407	0	0	0	0	26	23	15078
+gamma proteobacterium (no order in NCBI)	29	64	0	4	14	0	0	0	0	0	8	0	72	47	25	12	0	0	0	17	53	88	30	770	623	252	32	4	16	16	0	22	692	105	194	92	6	6	0	0	8	4	2
+gamma proteobacterium endosymbiont of Lamellibrachia anaximandri (no order in NCBI)	0	8	0	0	0	0	0	0	0	0	0	0	24	10	6	0	0	0	0	0	0	0	0	14	4	15	0	0	0	0	0	0	18	10	8	18	0	0	0	0	0	0	0
+gamma proteobacterium symbiont of Ctena orbiculata (no order in NCBI)	0	26	0	0	0	0	0	0	0	0	0	0	16	30	10	0	0	0	0	0	0	2	4	49	33	8	18	0	0	0	0	0	10	6	2	234	0	0	0	0	0	0	0
+gamma proteobacterium symbiont of Stewartia floridana (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	1	0	0	66	62	0	0	0	0	0	562	0	0	0	0	0	0	0
+Gammaproteobacteria bacterium (no order in NCBI)	988	21453	2388	4534	633	209	84	74	9	74	29	1425	16996	20663	8271	31249	893	68177	9620	1202	1090	4166	1050	15127	13065	7936	36469	1016	3276	4168	6091	628	19738	9387	8676	30123	263	304	107	0	989	1004	1228
+Gemmatales	0	311	26	3736	14	659	228	101	6	1209	131	2937	22	15	8	162	0	88	1	9	14	16	7	51	45	32	11852	177	641	515	0	40	144	205	156	240	0	14	16	0	46	0	46
+Gemmatimonadales	227	5763	243	405	50	112	60	14	0	18	7	70	1264	1284	570	4525	40	1239	140	168	190	784	276	2251	1776	1086	4301	196	1005	820	33	247	2726	1234	705	1347	130	7	0	0	6	121	610
+Gemmatimonadetes bacterium (no order in NCBI)	176	4322	180	411	110	47	29	3	0	6	27	22	2449	2587	1347	17026	13	573	96	530	522	1278	566	4238	3189	2235	1428	405	1146	985	0	89	8615	3491	1073	191	26	0	0	0	0	64	27
+Geodermatophilales	81	6828	352	233	68	6678	6681	3649	6	4718	2390	437	436	191	131	585	4	106	0	77	52	269	72	501	353	222	2833	37	1473	1406	0	94	746	14072	1684	440	10	80	903	0	282	56	112
+Ghiorsea (no order in NCBI)	687	118	657	734	1006	13	22	46	1470	113	425	2293	2819	2601	4592	48	1090	1885	1896	2184	1921	1828	2010	6565	5901	4760	953	1587	22	58	0	66	4416	3869	5106	1108	20519	2073	1100	0	22	0	0
+Gloeobacterales	0	10	4	372	0	0	8	0	0	4	0	75	21	15	4	14	0	0	0	0	0	0	0	8	2	4	489	2	10	34	0	0	9	6	17	0	0	0	0	0	10	0	0
+Gloeoemargaritales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	2	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycomycetales	0	58	4	30	0	6	22	10	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	106	0	0	44	0	0	10	4	0	6	0	0	0	0	0	0	0
+Halanaerobiales	13	123	4	184	0	60	0	0	9	0	115	20	4	2	0	23	0	0	0	0	0	6	4	6	27	10	63	35	0	0	0	0	3	2	0	0	0	203	0	0	34	55	291
+Haloplasmatales	0	0	0	46	0	25	20	58	17	8	0	0	0	12	0	118	0	0	0	4	0	4	4	101	111	37	4	106	0	0	0	0	52	0	85	0	0	0	0	0	32	10	0
+Halospina (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	18	12	0	0	0	0	0	0	0
+Herpetosiphonales	0	9	0	15	0	2	0	30	0	26	0	0	0	0	0	0	2	4	0	0	0	0	0	0	0	0	60	32	0	6	0	0	8	13	10	6	0	0	0	0	10	0	0
+Holophagae bacterium (no order in NCBI)	0	53	6	0	0	0	0	0	0	0	0	0	3	6	7	0	0	124	4	0	0	4	4	6	0	0	501	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Holophagales	130	781	33	18	12	6	6	2	0	0	6	77	192	171	85	638	0	114	12	18	11	165	44	132	88	68	3037	38	66	129	0	62	209	279	124	275	6	14	2	0	69	188	2575
+Holosporales	0	33	0	19	0	30	2	4	0	0	0	23	0	6	2	0	0	0	0	0	2	2	0	0	0	0	192	1	28	21	0	0	4	6	6	31	0	0	0	0	0	2	22
+Hydrogenispora (no order in NCBI)	0	44	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hydrogenophilales	0	28	0	9	0	0	0	0	0	0	0	0	27	26	6	0	0	28	2	0	0	0	0	2	9	2	680	150	0	0	0	0	27	15	20	46	0	0	0	0	0	0	24
+Hyphomicrobiales	91303	2521062	242093	77644	122702	366149	194485	70888	8863	1176956	28989	123389	182557	101324	63789	48655	15856	30179	8465	58366	33622	192765	64009	219646	204858	83813	701267	31012	217243	479964	2716	5595	200662	279181	185757	628141	2983	3798	13222	122	467356	140064	110176
+Hyphomonadales	80	1849	105	140	48	87	16	6	22	121	4	311	332	320	114	1082	109	50	30	114	246	463	243	1494	1234	737	1016	81	448	517	43	210	1833	555	1669	1718	40	780	30	0	2063	4559	9353
+Ignatzschineria (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2903323	0	0	0	0	0	0	0	0	0	0	0	0
+Ignavibacteria bacterium (no order in NCBI)	0	0	14	6	0	0	0	0	4	0	0	0	52	100	14	26	0	0	0	23	11	27	2	65	54	38	24	0	0	3	75	0	160	122	16	0	0	0	0	0	30	0	0
+Ignavibacteriae bacterium (no order in NCBI)	4	8	0	8	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	6	8	4	8	0	50	298	0	0	3	3	0	0	0	0	0	0	0	0	0
+Ignavibacteriales	54	294	62	42	6	4	2	0	53	51	4	24	29	47	14	224	0	44	6	7	17	148	16	6	3	8	165	0	10	35	9	10	40	21	54	220	10	16	0	0	30	34	70
+Immundisolibacterales	0	10	4	0	0	0	0	0	0	58	0	6	11	13	0	3	0	2	4	0	0	0	0	48	25	22	172	6	0	0	0	0	8	2	0	27	0	0	0	0	0	0	0
+Iodidimonadales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	12
+Isosphaerales	20	318	17	271	2	129	102	28	8	147	101	1825	67	21	19	103	0	57	4	4	3	31	4	201	167	87	2142	273	403	556	0	12	224	269	149	680	0	0	8	0	412	8	132
+Jatrophihabitantales	0	110	0	2	0	26	68	20	0	30	5	0	0	0	0	0	0	0	0	0	8	0	6	0	0	0	42	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jiangellales	98	10770	505	9	273	98	221	93	0	162	57	30	1129	471	351	1533	8	0	0	353	134	880	123	2246	1702	865	341	0	1190	2612	0	26	220	253	2414	837	0	0	0	0	68	8	63
+Kallotenuales	0	35	0	0	0	2	0	285	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	0	0	22	0	0	16	14	8	0	16	0	0	0	0	0	0
+Kiloniellales	18	3101	24	60	0	0	10	0	0	0	6	20	24	19	8	0	0	0	0	3	0	6	4	11	17	15	50	0	8	54	0	0	50	25	50	7172	6	0	0	0	42	18	201
+Kineosporiales	47	2322	111	161	98	10744	4510	1225	46	12098	7827	52	104	63	16	42	8	1126	4	24	22	134	10	22	33	7	986	6	74	254	0	0	58	512	92	67	0	4	79	0	238	35	12
+Kiritimatiellae bacterium (no order in NCBI)	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	12	0	0	0	0	0	6	6	12	6	0	0	0	0	0	0	0
+Kiritimatiellaeota bacterium (no order in NCBI)	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	2	0	0	0	0	0	0	10	9	0	12	0	9	0	0	0	0	0
+Kiritimatiellales	928	19728	944	141	56	8	0	0	120	0	0	15	344	265	180	704	0	122	8	48	42	132	28	821	560	350	1072	12	122	268	0	14	610	402	1387	4993	10	4655	4	0	117	7	45
+Koleobacterales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0
+Kordiimonadales	4	114	16	8	6	0	0	0	0	0	4	8	58	77	19	218	0	12	0	23	23	20	15	204	140	94	149	11	56	34	18	78	311	95	225	333	0	128	2	0	21	0	24
+Kosmotogales	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	102	30	34
+Krumholzibacteria bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	12	0	0	0	0	0	26	13	24	53	53	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ktedonobacterales	2	183	69	30	8	12	48	105	0	14	0	0	19	8	2	8	0	0	0	2	0	30	2	25	19	19	189	4	38	72	0	4	16	16	17	1669	10	0	6	0	69	22	24
+Ktedonobacteria bacterium (no order in NCBI)	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lactobacillales	4693	3700	4577	8185	221	21847	12125	349702	16750	28583	21739	16350	9214	7678	9944	12697	29036	40466	24621	36172	29728	32443	34454	8638	8118	7704	4976	4195	1774	2655	45426	8845	2671	3746	3554	5762	3757	2552	21763	3164	4105	2309	13736
+Legionellales	67	578	63	33687	32	2272	291	820	137	196	14	3883	303	408	184	349	83	28867	461	38	32	181	85	264	191	155	2212	827	433	579	14	62	748	363	261	2308	146	324	107	0	123	80	488
+Lentimonas (no order in NCBI)	0	14	2	58	2	0	0	0	0	0	0	0	76	80	23	78	0	0	0	33	15	13	10	20	8	20	60	10	0	6	0	8	51	50	97	99	0	20	0	0	75	0	0
+Lentisphaerae bacterium (no order in NCBI)	0	75	4	4	0	8	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	2	16	2	0	2	0	0	2	8	0	6	0	0	0	0	0	0	0
+Lentisphaerales	0	46	0	0	0	0	5	0	0	0	0	0	37	18	13	35	11	0	0	4	17	12	2	117	50	43	16	0	0	24	20	0	58	43	150	992	12	111	0	0	44	0	0
+Lentisphaeria bacterium (no order in NCBI)	1	42	0	0	8	0	0	0	0	0	0	0	27	44	13	100	0	28	5	6	0	12	4	38	25	12	77	14	0	8	0	0	42	51	56	18	0	0	0	0	0	0	0
+Leptospirales	27	519	87	151	0	60	11	62	42	100	2	38	51	23	11	65	0	129	0	6	10	35	36	76	78	35	343	123	50	120	0	57	95	86	63	392	69	68	0	0	2116	550	2977
+Limnochordales	0	12	0	0	0	0	0	8	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0
+Litorivivens (no order in NCBI)	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	6	6	4	4	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0
+Longimicrobiales	0	83	2	0	0	2385	8	14	0	12	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44	2	0	12	0	0	0	0	0	15	0	0	0	0	0	0	0
+Lusitaniella (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	13	2	0	26	14	0	0	0	0	0	0
+Magnetococcales	2	324	21	10	0	11	0	0	0	0	0	14	38	38	4	0	0	409	5	12	9	26	14	67	51	41	681	10	88	76	0	0	84	89	65	3743	6	2	0	0	5	0	30
+Maricaulales	51	581	51	73	250	18	0	0	0	0	0	57	47	61	39	99	69	86	20	3706	3427	19246	7613	214	201	87	167	6	43	322	54	112	518	148	357	575	101	56	0	0	41640	65	133
+marine actinobacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0
+marine gamma (no order in NCBI)	6	116	12	6	4	0	0	0	0	0	0	0	72	70	28	193	38	0	0	15	35	88	17	198	235	107	41	0	24	20	0	22	510	139	1012	1436	33	2048	12	0	18	0	0
+Marinilabiliales	226042	2108257	349257	582584	490	13892	15	446	48350	701	27060	205819	268	392	159	9027	8104	18802	311847	24720	14154	55869	50986	3101	3127	968	35843	44379	654	3607	258	11083	2584	957	1659	1867	227	668	86	37949	2493560	1726557	3534253
+Mariprofundales	2	105	8	89	6	0	0	0	0	0	0	8	33	19	0	0	0	0	0	2	4	14	0	0	4	3	16	0	0	8	12	15	16	0	0	63	10	0	10	0	0	0	9
+Mesoaciditogales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	10	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+methanotrophic bacterial endosymbiont of Bathymodiolus sp. (no order in NCBI)	2	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0
+Methylacidimicrobium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0
+Methylacidiphilales	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0
+Methylococcales	147	1791	123	775	33	91	25	10	38	30	1458	322	434	507	182	764	67	5188	146	58	118	325	228	958	746	517	18721	138	28	247	23	286	1147	435	800	8445	104	196	14	0	1097	139	192
+Micavibrio (no order in NCBI)	34	26	12	0	0	10	18	0	0	0	0	30	2	5	0	14	0	0	8	6	6	22	10	54	52	23	51	0	0	10	0	0	69	14	65	108	0	0	0	0	46	9	12
+Micrococcales	30608	2477591	126803	43595	8052	476703	803199	251525	1426	1958934	27645	343819	7460	4417	3052	11386	149	9443	527	1948	874	7132	37367	5468	4179	2416	1166076	9894	15520	18951	6	1026	3769	18752	6410	6017	86	251	15103	6	4982	2059	2346
+Micromonosporales	346	21541	738	8769	229	38346	27405	9250	106	724951	19535	5731	1078	588	543	1418	70	1051	62	315	145	812	247	1520	1217	757	53539	1011	5687	5083	12	1024	675	1754	1798	1831	0	220	30461	0	1386	246	268
+Micropepsales	25	91	26	0	2	0	0	0	0	0	0	0	2	8	2	0	0	0	0	8	805	12	306	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minwuiales	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	0	0	0	0	0	0	0	8	0	0	17	0	0	0	0	10	0	0	0	0	0	0	10	0
+Motilibacterales	0	140	2	4	0	16	25	22	0	166	60	0	0	0	0	31	0	2	0	0	0	0	0	4	2	0	120	0	200	30	0	0	0	0	0	32	0	0	0	0	12	0	12
+Mycoplasmatales	366	1405	19	18027	2	2948669	676696	402639	0	18941	50	44949	2007	4291	1313	3397	5	23	37	30	14	48	105	51708	68225	12559	85956	150	8	4403	3246646	709733	881712	1034791	451753	133	824545	736	1784	237	2552096	976579	5960445
+Myxococcales	339	16765	532	9424	408	2996	6178	490	36	3082	830	26284	13997	13393	7708	7804	358	4807	855	1233	3432	9823	2165	71853	54088	36992	387071	13189	15753	21906	0	1427	23929	14229	25663	34943	275	257	88	0	669	1340	6598
+Nakamurellales	4	844	33	40	12	1280	1192	1346	0	167	98	40	10	6	0	11	0	0	0	4	0	30	6	20	11	14	606	10	182	27	0	0	48	127	46	24	0	4	86	0	27	0	0
+Natranaerobiales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nautiliales	2	14	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	0	0	0	0
+Ndongobacter (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neisseriales	111	892	320	2135	6	2038	136	84	84	507	0	1509	264	253	72	470	56	302	38	32	60	115	83	421	375	135	1014	65	22	367	29	276	450	140	198	677	64	42	2553	0	779	128	1026
+Nevskiales	57	911	34	558	7	38	26	20	6	16619	50	8478	124	108	27	335	0	1044	44	9	39	37	25	239	122	141	17143	2769	34	80	33	43	385	190	143	419	39	0	0	0	18	14	16
+Nitriliruptorales	56	13561	476	43	2	18	116	13	0	0	0	44	69	76	29	207	0	0	0	15	0	22	6	176	124	112	481	40	5845	10974	0	6	42	48	80	100	0	0	4	0	60	2	20
+Nitrosomonadales	165	1967	137	393	59	225	43	65	21	282	55	573	345	503	128	1511	87	119775	237	73	73	250	323	866	652	410	12494	649	162	459	1786	28	1265	641	543	4631	461	66	46	0	465	1054	1610
+Nitrospinae bacterium (no order in NCBI)	0	6	2	0	0	0	247	4	0	0	0	0	0	0	0	10	0	0	0	0	4	0	2	4	4	0	0	0	0	2	0	22	105	14	6	0	0	0	0	0	0	0	0
+Nitrospinales	9	37	2	0	8	0	0	0	0	0	0	0	37	22	10	0	0	62	0	12	24	22	11	29	16	18	6	0	0	30	0	0	30	4	6	388	4	10	0	0	0	0	20
+Nitrospira bacterium (no order in NCBI)	2	14	2	8	4	0	0	0	0	0	0	8	22	18	6	0	0	101	30	4	0	12	2	0	0	0	91	0	0	0	12	0	2	6	0	31	0	0	0	0	0	0	0
+Nitrospirae bacterium (no order in NCBI)	72	2180	174	24	118	6	6	0	0	0	0	0	928	695	370	1124	10	540	90	132	59	969	243	786	454	303	6678	170	6	90	10	0	2078	1628	212	788	0	8	0	0	0	0	96
+Nitrospirales	19	525	36	604	4	32	44	26	0	14	6	198	54	103	32	196	2	313	61	18	15	232	45	141	100	92	1115	21	64	97	16375	38	298	144	151	1228	228	0	0	0	211	856	767
+Nostocales	63	1587	138	1564	10	3060	1074	5582	2	164	4	951	967	2844	423	3538	26	115	33	1173	476	947	443	3100	2704	1878	16153	657	889	7842	1914	360	6425	6044	808	4200	297	119	104	0	417	91	534
+Oceanospirillales	30476	558469	57859	68141	2480	2759	1145	192	5403	2367	165	5680	2762	2902	1317	8453	774	5928	619	14472	10316	3581	5969	4407	3437	2038	162753	3672	1180	2201	154002	2995	18062	3238	7299	18482	755	6555	418	0	9131	11240	15484
+Olavius algarvensis Delta 1 endosymbiont (no order in NCBI)	9	375	67	0	66	0	0	0	0	0	0	0	359	493	117	261	7	25	16	45	33	187	60	263	183	93	58	4	0	0	0	0	316	153	219	5105	0	0	0	0	0	0	0
+Olavius algarvensis Delta 4 endosymbiont (no order in NCBI)	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	6	0	0	0	0	0	0	12	0	5	73	0	0	0	0	0	0	0
+Olavius algarvensis Gamma 3 endosymbiont (no order in NCBI)	2	32	0	0	0	0	0	0	0	0	0	0	8	25	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	14	0	223	0	0	0	0	0	0	0
+Oligoflexales	2	57	0	70	0	2	4	2	0	0	0	0	4	0	0	26	0	0	0	20	0	4	2	4	0	2	107	0	0	8	0	0	56	38	39	46	0	0	0	0	17	0	0
+Oligoflexia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oligosphaerales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Opitutae bacterium (no order in NCBI)	12	75	0	9	0	4	2	0	0	0	0	4	6	2	0	15	0	0	0	0	0	2	6	73	82	67	12	0	258	120	0	0	61	14	28	2097	4	0	0	0	8	0	0
+Opitutales	43	566	39	263	14	141	46	2	35	132	0	643	86	125	18	161	0	26	0	69	50	78	17	88	85	56	925	40	187	203	7	12	231	136	241	320	0	26	0	0	171	4	51
+Orbales	34	30	16	61	0	135	5	58	27	44	0	0	4	11	0	0	2	191	0	1	7	36	9	4	3	2	86	143	0	4	0	0	80	6	115	109	29	48	0	22	0	23	0
+Oscillatoriales	20144	5859	19949	14992	742	16181	23833	20050	12329	14726	16945	56874	9303	10474	11751	5995	3434	10133	6891	10326	9437	12745	8744	7324	6473	6139	43341	2859	8360	52778	329	27779	27769	9089	7123	46888	12732	9101	7915	0	13837	13712	11606
+Parachlamydiales	96	3164	69	137	0	19	105	118	0	25	65	4	0	0	0	0	0	4	75	0	0	8	0	25	0	2	260	55	0	106	0	0	35	48	17	101	0	0	6	0	8	0	0
+Parvularculales	13	620	43	48	4	12	12	0	248	0	4	1617	65	36	14	386	26	39	8	17	10	37	14	236	162	71	252	0	62	139	6	12	388	204	223	354	12	6	0	0	67	97	180
+Pasteurellales	672	2044	424	2628	7	989	82	171	131	42	219	1129	3623	3221	4186	66	2707	5095	1564	3404	3030	2236	3002	932	900	729	989	650	0	176	171	127	2189	1953	2624	264	188	101	696	69	832	2036	2464
+Pelagibacterales	129	478	47	36	18	23	2	0	0	8	0	6	53	16	6	156	0	24	44	33	33	60	49	106	92	50	116	26	26	289	0	22	408	111	157	874	44	92	8	10	39	18	403
+Petrotogales	0	16	0	9	0	32	8	42	0	18	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	19	16	8	16	0	6	8	122	0	13	45
+Phreatobacter (no order in NCBI)	0	0	0	0	0	2119	195	41	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	6	0	0	12	5	6	24	0	2	2	0	0	0	0
+Phycisphaerae bacterium (no order in NCBI)	39	544	17	55	35	24	3	2	0	0	0	0	52	71	20	92	2	461	324	27	53	88	79	49	62	26	306	44	50	41	0	0	288	85	162	464	0	191	2	0	28	18	279
+Phycisphaerales	152	32750	132	821	14	293	28	0	11	76	32	172	596	587	218	593	76	115	56	38	54	175	82	818	679	464	975	155	646	558	156	64	2282	1188	13041	2982	6	98	286	0	283	111	6513
+Pirellulales	2172	112357	6934	30878	1300	1164	761	185	64	486	531	4502	11320	8547	4999	32827	144	2554	294	1518	1380	8533	2506	41323	30160	20107	119703	3251	66820	177842	3434	1097	27431	36453	41138	254785	53	2506	1318	0	111905	4253	1742
+Planctomycetales	1032	49989	2716	26786	448	710	495	149	75	304	1677	10957	4550	3898	2062	13627	237	1730	303	565	463	3374	968	19765	15437	10673	131420	2596	20424	39366	1037	677	17404	15929	15554	56225	61	1150	534	0	25352	2219	2885
+Planctomycetes bacterium (no order in NCBI)	187	21826	702	683	731	164	34	11	0	131	26	239	2478	1391	868	1119	215	292	44	287	142	1066	228	2654	2131	1124	5588	137	2850	4864	82	299	2107	3246	4096	10004	0	6	50	0	6527	142	1484
+Planctomycetia bacterium (no order in NCBI)	2	293	36	892	6	20	16	6	0	22	2	36	113	56	31	20	2	51	9	38	16	54	28	24	22	11	2702	39	75	24	0	198	1435	687	384	351	0	8	0	0	6	8	93
+Pleurocapsales	128	376	46	558	48	65	89	109	0	6765	0	388	129	438	135	1972	874	690	63	271	293	2271	3541	595	614	419	148222	1547	3236	30213	110	85	10546	996	578	3134	2296	70	425	0	319	189	2
+Propionibacteriales	3296	298774	37425	7023	717	309379	401685	76451	54	99857	4301	12805	2313	1100	700	3593	100	1324	36	541	173	1975	497	2962	2580	1333	327649	7516	10918	25677	14	438	3470	39398	6097	2847	0	228	11663	0	3145	971	950
+Proteobacteria bacterium (no order in NCBI)	91	1073	111	361	36	85	14	4	0	559	4	147	301	481	142	362	41	2940	285	21	47	129	79	418	319	336	11532	34	132	128	0	96	400	271	366	2973	12	10	0	0	26	16	56
+Pseudohongiella (no order in NCBI)	0	41	0	0	0	0	0	0	0	0	0	0	19	17	2	10	16	0	0	8	0	0	0	17	21	6	6	0	0	0	0	25	81	15	18	0	0	0	0	0	0	0	0
+Pseudomonadales	36087	30917	32763	28939	2101	133426	75965	57102	65453	172983	58504	406770	25422	20141	26068	48643	33656	69041	40536	54324	45662	42630	50639	27151	23908	22382	44535	6762	6497	7709	39174	32663	22537	13752	21296	47238	32589	8547	27367	61	86009	11209	28250
+Pseudonocardiales	221	13506	597	1266	141	13895	16723	5790	16	15919	5345	2938	553	342	264	690	30	285	1	136	39	478	98	512	412	199	28624	1018	3365	2362	146	126	1392	15952	2403	1361	0	57	826	0	1246	33	251
+Puniceicoccales	552	2963	402	1627	8	36	2	0	0	82	0	64	364	378	103	808	8	32	10	119	44	116	29	427	303	196	585	72	781	366	0	85	823	367	834	1653	18	209	4	0	17	19	39
+Rhodobacterales	161438	3490319	522089	180126	30569	214413	154461	19582	3978	69701	4573	493271	105541	98741	43032	543671	7769	136582	24582	29076	104776	103913	76629	821200	555233	396332	588634	44695	195919	464282	132951	356482	861774	587881	1151582	3793123	2245	102913	61360	156	3014339	661330	396805
+Rhodocyclales	386	1584	247	247	18	2682	314	605	14	66057	35	450	927	1145	164	835	58	1129	86	121	140	188	179	467	319	206	6750	149	652	240	116	92	684	300	221	2449	34	49	10	0	130	63	124
+Rhodospirillales	2293	53706	4054	13149	874	20062	10571	2459	412	4229	1018	39288	2587	2117	940	4357	2239	5253	3863	1305	1489	6193	2972	14597	9795	4417	130030	6555	16149	19960	310	3126	6572	14114	8563	354551	1664	322	914	326	6102	3854	15945
+Rhodothalassiales	0	16	0	0	0	0	0	0	9	0	0	0	8	6	0	0	0	0	0	0	0	0	0	0	0	0	10	18	0	0	0	0	0	0	0	10	0	0	0	0	33	0	0
+Rhodothermales	34	422	19	22	16	0	11	6	0	0	0	19	196	245	74	781	36	208	24	39	44	96	33	431	317	233	407	59	158	275	0	26	589	336	269	544	4	20	0	0	6	486	491
+Rickettsiales	546	539	592	559	130	413	197	128	194	111	559	521	153	122	125	1196	172	378	424	236	209	461	295	138	159	108	2609	1340	15	237	80	544	667	155	262	904	628	529	1203	101	139	78	181
+Rubrobacterales	31	1372	47	22	0	2755	2719	264353	25	65	0	31	18	26	2	26	0	16	6	1	10	76	24	0	4	0	449	6	459	170	0	8	349	2218	446	49	0	0	28	0	0	0	33
+Salinisphaerales	0	74	2	72	0	13	19	6	0	28	0	0	6	10	2	0	0	24	1	2	3	8	6	16	10	5	190	0	0	0	0	0	486	28	44	129	0	0	0	0	2	20	73
+Saprospirales	1244	9859	1452	4148	129	233	52	36	122	267	10	698	1649	2280	447	25257	196	1121	499	653	2121	5671	1610	22114	20306	10451	1481	826	702	3543	1562	2866	34134	6929	14031	1505	17295	10390	155	18	12316	72685	1575
+SAR202 cluster (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	10	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAR324 cluster (no order in NCBI)	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	8	0	0	0	10	6	12	2	12	12	1	0	0	0	0	0	0	4	2	4	127	0	0	0	0	0	0	0
+SAR86 cluster (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	2	4	0	0	0	0	0	2	3	10	14	0	0	0	8	0	0	0	0	0	6	1	0	40	0	0	0	0	0	0	22
+Sedimentibacter (no order in NCBI)	0	0	0	0	0	202	0	57	0	0	0	0	0	0	0	105	0	0	3	25	11	81	136	0	0	0	34	0	0	0	0	0	0	0	0	0	217	0	0	0	0	0	0
+Sedimenticola (no order in NCBI)	15	321	16	53	21	0	0	0	0	0	0	13	561	675	216	36	2	179	25	49	47	81	47	412	477	210	699	4	18	26	0	0	583	236	194	3906	338	0	0	0	0	0	0
+Sedimentisphaerales	12	481	20	99	0	4	0	6	0	0	0	0	41	47	18	70	0	26	6	0	6	2	4	67	36	39	388	11	22	42	0	0	46	17	20	82	0	18	0	0	0	6	97
+Selenomonadales	355	757	892	779	1439	920	142	167	2454	12	190	213	0	8	0	336	0	4	0	283	13871	193	33395	66	78	37	32	2	152	28	0	0	13	17	38	0	9	28	0	26	601	165	567
+Silvanigrellales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0
+Sneathiellales	8	545	44	12	18	0	0	0	0	0	0	16	13	15	8	30	14	0	0	8	4	27	2	98	91	18	142	0	12	170	16	4	56	45	70	1163	27	0	0	0	15	26	139
+Solemya elarraichensis gill symbiont (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	22	11	4	0	0	0	0	0	0	0	0	12	9	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Solemya pervernicosa gill symbiont (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	71	0	0	0	0	0	0	0
+Solemya velesiana gill symbiont (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Solemya velum gill symbiont (no order in NCBI)	4	79	6	15	0	0	0	0	0	0	0	0	27	23	12	0	0	0	0	4	6	0	0	47	36	32	0	0	0	0	0	0	122	45	8	0	0	0	0	0	0	0	0
+Solirubrobacterales	154	64134	431	123	0	7163	13205	5485	0	527	793	755	50	34	18	124	18	3	0	10	8	41	24	70	62	36	2884	10	2127	3775	0	92	282	497	328	238	0	11	363	0	69	29	44
+Spartobacteria bacterium (no order in NCBI)	0	29	0	16	0	40	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sphaerobacterales	0	12	0	0	0	2	0	24	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	0	4	0	6	0	0	0	30	0	0	0	0	0	0	0
+Sphingobacteriales	460	3585	857	4299	16	850	264	113	283	363	263	6019	78	115	33	1585	121	396	367	163	273	752	293	1276	1105	771	1113	541	48	755	2740	138	1105	282	424	514	302	294	44	30	2501	5303	3949
+Sphingobacteriia bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	6	2	2	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sphingomonadales	16555	111545	9601	151475	439	5712	2453	1407	43384	876142	2032	428125	2684	2598	1496	7989	34285	229838	8104	1249	1751	3089	1969	11203	9258	5074	220390	5888	11665	28872	4812	13289	13156	6150	5484	6371	2638	12600	683	46	406718	45473	17455
+Spirochaetales	11645	64340	12835	418	23	719	20	290	36238	100	264	134	374	546	189	1200	4	84	137	3121	16751	166	65694	8435	6998	2023	3357	387	20	216	30	15	13004	3165	7990	6243	251	79	75	221	331459	105974	545327
+Spirochaetes bacterium (no order in NCBI)	33	1191	43	0	0	2	630	0	350	5	0	0	0	9	2	24	0	0	0	4	8	0	29	2	6	2	0	0	0	0	0	4	0	0	0	49	12	0	0	0	0	0	0
+Spirochaetia bacterium (no order in NCBI)	0	3	0	0	0	0	0	0	9	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spirulinales	2	67	2	20	0	0	0	0	8	0	0	0	2	21	4	40	0	0	0	0	0	0	10	7	12	6	60	0	39	132	0	11	66	28	2	27	0	0	0	0	0	0	0
+Sporichthyales	0	179	6	0	2	2	30	8	0	0	28	4	0	0	0	0	0	8	0	0	0	10	0	30	30	14	134	0	86	86	0	4	10	28	64	73	0	0	6	0	34	4	14
+Streptomycetales	830	51774	2054	3174	812	8458	9184	5028	198	33904	12933	3030	2530	1300	689	4221	70	983	38	645	172	2170	527	3000	2373	1326	19528	792	6825	8585	672	287	1428	2815	4494	5522	86	230	1006	10	2652	577	1421
+Streptosporangiales	234	21175	558	304	308	2442	10441	2519	36	5896	2942	595	877	458	292	1582	8	418	2	284	110	858	174	950	666	389	6614	113	2125	3612	0	153	403	841	1276	1891	12	42	91	0	1374	69	449
+Synechococcales	535	18945	1406	3623	162	1312	219	409	0	210	152	89	3579	3921	1388	5297	40	331	31	3714	2547	2241	2001	28368	24639	17272	4899	821	15237	76773	52	1880	7559	10823	2765	9979	48	240	48	0	2125	465	1052
+Synergistales	11	105	16	28	0	41	18	8	0	0	0	16	6	0	0	12	0	6	0	14	12	96	30	0	0	0	10	0	0	39	0	10	98	2	9	0	68	0	0	0	381	95	428
+Syntrophobacterales	23	644	97	237	12	20	25	8	68	24	1177	16	151	237	40	273	4	4243	614	6	9	73	42	284	209	126	13454	381	58	68	0	0	368	268	241	1002	8	0	6	8	2421	651	4079
+Syntrophorhabdales	144	352	45	8	0	6	4	0	18	0	0	0	0	0	0	20	0	10	0	0	0	6	6	2	1	4	32	0	0	4	0	0	0	6	2	48	0	0	0	0	0	0	0
+Tenericutes bacterium (no order in NCBI)	0	21	2	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tepidiformales	0	0	0	67	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tepidisphaerales	0	10	0	328	0	0	0	4	0	16	0	6	0	0	0	0	18	0	0	0	0	2	6	10	4	6	173	2	0	20	0	0	27	36	13	24	0	0	0	0	0	0	36
+Terrimicrobiales	0	0	0	15	0	8	16	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thermales	39	504	20	39	16	33	35	24	0	0	19	137	32	61	6	88	0	60	4	12	15	48	10	29	22	30	526	10	18	100	0	15	78	80	50	120	6	0	12	0	27	49	287
+Thermoanaerobacterales	0	325	23	96	9	152	140	214	205	90	64	341	14	26	14	28	22	26	80	24	23	29	75	65	47	22	810	1049	78	22	305	54	1425	1589	1644	115	115	0	8	0	874	173	496
+Thermoanaerobaculales	0	0	0	0	0	0	0	0	0	0	0	0	0	8	2	0	0	0	0	0	0	0	0	10	3	0	0	0	0	10	0	0	0	2	6	0	0	0	0	0	0	0	0
+Thermoanaerobaculia bacterium (no order in NCBI)	0	16	2	12	0	0	0	0	0	0	0	0	0	0	0	14	8	86	0	0	0	0	0	0	0	0	2704	67	0	0	0	0	4	20	2	0	0	0	0	0	0	0	0
+Thermobaculum (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Thermodesulfobacteriales	45	921	92	4	2	0	0	0	0	0	0	0	0	12	0	0	0	24	8	4	4	46	11	0	0	0	274	13	0	20	0	0	14	15	2	59	0	0	0	0	6	80	36
+Thermodesulfovibrionales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thermoflexales	2	46	1	0	0	4	6	16	0	0	0	0	12	16	0	6	0	0	0	0	0	0	0	0	0	0	108	4	0	12	0	0	0	0	0	22	0	0	0	0	26	42	36
+Thermogemmatisporales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	4	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0
+Thermoleophilales	6	1764	30	6	33	207	393	393	0	12	24	154	64	41	13	73	0	4	0	10	8	67	51	33	21	13	555	16	25	258	0	0	30	141	4	24	0	0	42	0	0	4	8
+Thermoleophilia bacterium (no order in NCBI)	20	3512	114	31	8	176	238	131	0	34	4	26	44	34	16	6	0	9	0	6	14	46	14	23	12	4	2621	38	1323	1577	0	4	44	53	55	81	0	0	66	0	6	4	14
+Thermomicrobiales	8	1209	31	23	22	28	24	52	0	4	0	6	76	34	32	10	0	4	0	16	6	68	12	123	107	33	1713	4	82	420	0	0	84	210	381	216	0	0	0	0	0	0	0
+Thermopetrobacter (no order in NCBI)	0	37	8	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	29	0
+Thermorudis (no order in NCBI)	0	4	0	9	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thermosediminibacterales	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thermotogae bacterium (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	4	6	0	0	0	0	0	0	0	0
+Thermotogales	0	55	0	58	2	13	0	12	0	0	0	0	23	37	4	6	0	9	18	6	6	6	6	76	105	76	51	19	87	38	0	8	50	29	26	289	0	0	0	0	65	10	0
+Thiohalorhabdus (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	6	9	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thiolapillus (no order in NCBI)	0	28	0	0	0	0	0	0	0	0	0	0	48	68	28	14	0	14	0	1	7	20	6	31	11	9	15	0	0	0	0	0	68	29	17	14	0	0	0	0	0	0	0
+Thiotrichales	375	2566	540	1336	37	1456	685	595	194	175	512	361	913	1016	421	1411	116	942	310	139	163	372	9356	1450	932	820	2543	148	2881	1117	621	154	3004	948	1157	5593	321	175	406	22	1284	649	1498
+Tissierellales	9	476	39	45	0	308	34	330	100	98	52	171	0	6	0	126	7	29	120	42	28	130	86	460	332	115	22	109	0	0	321	0	47	26	22	523	29	0	26	44	217	88	56
+Trueperales	6	203	4	62	0	0	0	2	0	34	0	0	0	0	0	14	0	0	0	0	0	0	0	4	6	3	3	4	0	18	0	0	8	14	24	8	0	44	0	0	84	0	10
+Unclassified Abditibacteria	0	0	0	0	0	6	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Acidimicrobiia	2926	244708	8685	3666	1762	1316	5614	688	32	463	189	3146	10683	7926	4205	14161	245	13503	127	1377	648	3761	1852	19761	13314	7592	52248	2121	38021	58937	14	3922	9104	13812	23178	64222	49	381	1605	0	240592	16144	10769
+Unclassified Acidithiobacillia	2	20	0	0	0	16	0	2	0	0	0	5	39	40	14	87	0	0	0	0	0	0	0	4	12	6	52	0	0	0	0	0	16	1	20	65	0	0	0	0	0	0	0
+Unclassified Acidobacteria	2037	73735	3516	8590	1891	1047	4153	540	290	1861	1229	11605	17134	16776	7651	39403	771	25280	2727	2175	1676	14547	5600	14251	10796	8192	443416	7788	9170	10678	104	3820	22475	24122	8032	37308	653	384	171	0	1220352	15632	185733
+Unclassified Acidobacteriia	20	843	14	40	0	10	2	2	0	33	0	132	49	16	25	56	4	40	2	1	2	4	4	54	37	18	789	7	246	71	0	0	42	48	53	412	0	0	0	0	61	4	93
+Unclassified Actinobacteria	24300	2786206	71011	35000	16707	44574	92446	53052	1946	51813	18695	48120	68605	49350	26604	111215	2475	91455	2094	12248	6532	31892	16845	148804	107404	68060	467381	16874	308660	483144	3028	27696	65260	100078	165428	398541	901	2836	17021	169	3160219	83755	60211
+Unclassified Actinomycetia	21398	2727121	94420	30223	14883	231719	333116	129953	6804	498304	142075	70466	46887	24878	16431	72355	2350	26864	2284	11238	5122	38844	12522	77930	64980	37869	623474	10907	140282	188637	1281	9602	25050	66747	73954	115195	2179	2662	16432	916	83150	15583	27178
+Unclassified Alphaproteobacteria	51628	1273897	130258	111699	40232	83516	65740	14199	12324	81402	8990	192743	88239	64341	34405	125422	54614	94230	107535	37375	48136	140644	95172	325026	245592	118974	433051	90847	174034	380159	25943	31610	262208	210083	286283	1753387	10033	41971	19904	5441	542199	305577	226785
+Unclassified Anaerolineae	706	37622	1913	561	244	294	125	293	99	132	67	125	4856	6074	2379	4175	30	1118	369	314	201	1514	534	1157	960	563	24167	1456	2533	2888	0	104	924	1533	1187	2753	1155	260	268	0	46735	1417	9918
+Unclassified Aquificae	58345	10741	53563	11324	267	25549	36556	23194	31807	28696	66162	249636	39776	30383	46403	44682	16249	34479	27250	26939	26762	20448	26068	29906	30357	31275	14085	18468	18239	12540	49456	70614	59380	69146	86919	21524	40160	29948	24132	66	30481	32312	30136
+Unclassified Ardenticatenia	2	1006	38	2	8	0	0	0	0	0	16	12	70	48	30	212	0	16	0	0	6	28	6	112	158	77	784	4	183	113	0	48	156	107	112	236	28	8	0	0	106	2	215
+Unclassified Armatimonadetes	189	8171	438	803	120	54	46	31	0	81	6	216	826	563	312	2224	104	135	36	72	46	307	102	1299	1134	584	1549	42	285	1187	36	46	729	1031	1657	3800	61	91	10	0	141	173	426
+Unclassified Armatimonadia	0	20	0	16	7	0	14	0	0	0	0	0	25	21	14	23	0	0	0	4	1	8	1	25	16	10	96	4	0	31	0	0	43	22	6	50	0	0	0	0	19	0	34
+Unclassified Bacilli	15485	9322	12991	17547	181	20487	9060	18933	4350	12343	8529	22297	6886	5425	7401	15210	8924	18380	15499	14033	12229	14108	15763	6616	6672	5097	7580	6622	978	20837	22533	5136	6220	8697	8290	19585	5479	515	10549	23921	49808	17757	78569
+Unclassified Bacteria	382047	4761359	505108	3763955	120446	8980764	1012811	1490031	254672	805276	359688	931049	481510	448477	327604	1629394	282998	812974	1588908	295363	301273	846247	928582	4769922	3544133	1253215	2738558	426379	580920	7773611	5742352	400451	2382317	2644171	1901049	7072094	686723	350267	3984466	5209107	10703614	4736088	18069990
+Unclassified Bacteroidetes	202750	4220979	473449	331097	6892	78211	14194	9986	78673	20642	17808	302518	34943	41192	19107	379129	111223	488156	301485	68793	77183	994160	131144	458036	370532	171534	228736	92624	29544	314491	283408	45839	475407	112202	188314	174751	67779	101469	15257	8282	6352305	4510008	3956532
+Unclassified Bacteroidia	91400	1020366	183947	209384	313	162021	113	4466	29615	503	4713	53375	765	901	287	6664	37937	128277	264738	66702	34019	172826	142990	60819	45821	1238	85085	17598	290	2817	979	6965	5266	1784	3227	2792	784	407	105	4187	2164964	842001	2047131
+Unclassified Balneolaeota	11	243	37	34	0	8	0	0	0	12	14	6	20	12	1	104	0	48	4	2	6	39	8	28	25	13	172	5	8	31	0	8	80	14	38	58	18	0	0	0	57	18	160
+Unclassified Balneolia	7	242	6	73	0	0	0	0	10	10	0	8	12	2	0	43	0	0	0	0	0	16	2	23	18	6	66	0	0	37	0	0	98	26	4	28	0	68	0	0	0	3454	0
+Unclassified Betaproteobacteria	1637	24938	1979	14932	521	16008	2113	1467	336	12584	660	12699	6843	7984	3953	10184	1005	70551	5145	970	1081	2804	1512	10806	8239	5453	577315	6647	2637	5414	458	1206	14139	5751	7194	43846	457	695	709	15	7509	2379	10724
+Unclassified Blastocatellia	2	280	9	89	0	51	59	49	0	0	8	16	63	63	16	110	0	38	13	0	2	26	0	57	26	35	348	2	0	98	0	8	38	43	22	166	23	18	0	0	3308	5	128
+Unclassified Caldilineae	14	1136	71	0	8	0	0	0	0	45	0	0	115	114	49	332	0	14	0	2	19	74	24	103	109	66	536	4	302	264	0	0	22	59	102	141	113	0	0	0	20	0	138
+Unclassified Caldiserica	2	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	8	2	0	8	0	1	6	6	0	0	0	0	0	0	6	6	2	0	0	0	0	0	31	48	91
+Unclassified Caldisericia	0	6	0	0	0	0	0	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Calditrichae	2	62	4	7	0	0	0	0	0	0	10	0	16	50	8	93	16	28	84	0	0	8	0	31	23	10	16	0	4	37	0	0	41	25	24	304	0	0	0	0	0	0	0
+Unclassified Calditrichaeota	57	364	83	51	2	6	0	109	0	8	14	18	16	22	10	59	7	46	6	0	8	53	2	100	70	36	247	21	0	32	8	10	82	69	42	229	149	31	16	0	49	552	186
+Unclassified candidate division NC10	0	12	4	0	0	0	0	0	0	0	0	0	0	0	0	16	0	2	4	4	1	5	0	2	0	4	50	0	0	4	0	0	14	1	14	105	0	0	0	0	0	0	6
+Unclassified Candidatus Abawacabacteria	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	10	0
+Unclassified Candidatus Absconditabacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Abyssubacteria	2	33	0	0	0	0	0	0	0	0	0	0	10	8	4	32	0	6	4	2	3	9	0	31	11	3	47	2	0	20	0	0	0	0	0	94	0	0	0	0	0	0	77
+Unclassified Candidatus Adlerbacteria	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Aerophobetes	0	34	6	25	0	0	0	0	0	0	0	0	6	18	4	0	0	0	0	0	0	0	0	0	4	0	14	0	0	0	0	0	8	2	0	20	0	0	0	0	0	0	0
+Unclassified Candidatus Amesbacteria	0	46	0	0	0	2	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	14	0	100	38	0	0	2	4	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Aminicenantes	31	785	15	78	8	124	167	134	108	44	10	6	83	105	40	151	18	100	20	10	40	86	40	155	121	125	997	4	155	69	0	16	191	106	58	508	25	26	0	0	6	46	248
+Unclassified Candidatus Andersenbacteria	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0
+Unclassified Candidatus Atribacteria	40	380	61	33	0	0	0	0	0	16	0	0	12	12	0	6	4	28	6	0	17	37	14	47	48	38	110	0	0	16	0	0	41	16	17	65	0	0	0	0	0	0	144
+Unclassified Candidatus Aureabacteria	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	4	0	6	2	2	2	0	0	0	0	0	0	0	0
+Unclassified Candidatus Azambacteria	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	0	8	0	0	6	33	0	1	2	9	0	0	0	0	0	0	0	0
+Unclassified Candidatus Babeliae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Beckwithbacteria	2	58	2	0	2	0	14	0	25	0	0	0	0	0	0	0	15	0	0	12	1	2	14	6	9	0	28	0	0	4	0	0	0	8	0	0	0	0	0	10	14	4	0
+Unclassified Candidatus Berkelbacteria	0	1194	2	0	0	0	0	0	10	0	0	5	0	0	0	80	0	0	0	0	0	0	0	0	0	0	12	0	0	4	0	0	6	4	8	0	0	0	0	0	10	24	10
+Unclassified Candidatus Binatia	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Binatota	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Bipolaricaulota	2	232	9	0	0	17	18	0	0	0	0	8	20	18	0	106	0	5	1	2	0	4	0	4	4	4	72	0	72	82	0	14	20	8	0	188	48	0	0	0	41	25	35
+Unclassified Candidatus Blackburnbacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Brennerbacteria	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Brocadiae	4	175	17	9	0	29	7	0	0	16	0	16	50	42	19	83	2	4	0	2	4	20	2	203	170	160	127	0	0	26	0	0	129	70	115	204	18	0	0	0	0	0	40
+Unclassified Candidatus Buchananbacteria	0	54	2	0	0	0	0	0	15	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	7	0	0	0	0	0	0	0
+Unclassified Candidatus Calescamantes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Campbellbacteria	0	42	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	4	61	76	10	0	0	100	482	75	0	0	0	0	0	0	0	0	0	1130	1612	53
+Unclassified Candidatus Cerribacteria	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Chisholmbacteria	0	8	0	10	0	0	0	0	0	0	0	0	2	4	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0
+Unclassified Candidatus Cloacimonetes	14	354	85	76	8	67	0	27	0	26	0	10	2	12	2	68	8	12	12	0	4	31	24	118	70	33	131	96	0	47	0	0	63	45	6	101	34	46	0	0	97	50	186
+Unclassified Candidatus Coatesbacteria	0	32	0	0	0	0	0	0	0	0	0	10	0	0	0	42	0	0	0	0	0	0	0	3	6	4	24	0	0	0	0	0	17	10	14	0	14	0	0	0	0	0	0
+Unclassified Candidatus Collierbacteria	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	10	0	0	0	28	24	0
+Unclassified Candidatus Colwellbacteria	4	14	6	12	0	0	0	0	0	0	0	0	0	0	0	0	12	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	6	0	0	0	0	0	0	0	19
+Unclassified Candidatus Curtissbacteria	4	50	2	0	0	0	11	8	0	0	15	0	0	0	0	0	0	7	0	0	0	0	0	4	0	0	0	0	18	10	0	0	0	0	0	0	0	0	0	0	0	10	0
+Unclassified Candidatus Dadabacteria	161	741	79	719	4	0	0	0	0	16	0	26	102	92	81	576	4	90	30	8	15	78	24	34	22	6	1599	39	42	70	0	56	168	77	465	457	8	84	0	0	226	142	470
+Unclassified Candidatus Daviesbacteria	4	24	10	34	6	2	6	0	0	0	0	6	0	0	0	50	0	10	6	2	0	22	12	0	0	0	6	0	0	12	0	0	55	18	38	10	0	10	4	0	10	0	0
+Unclassified Candidatus Delongbacteria	20	178	22	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	14	0	0	8	0	12	1	0	42	0	0	16	0	0	16	14	6	10	22	0	0	0	2899	264	661
+Unclassified Candidatus Desantisbacteria	0	8	0	8	0	0	0	0	0	0	0	0	6	2	0	22	0	4	2	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0
+Unclassified Candidatus Dormibacteraeota	3	280	2	0	0	8	67	30	0	36	0	38	28	22	6	110	0	0	0	0	0	6	0	25	9	7	1838	37	10	6	0	6	0	0	0	6	0	0	0	0	70	0	0
+Unclassified Candidatus Doudnabacteria	0	82	4	56	0	2	0	0	0	6	0	0	0	0	0	0	0	0	0	2	2	8	2	0	0	0	50	0	0	13	0	0	0	12	4	1126	0	0	0	0	0	30	14
+Unclassified Candidatus Edwardsbacteria	2	65	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Eisenbacteria	0	351	18	47	14	36	1	0	0	4	14	20	51	41	14	160	0	36	6	6	14	60	17	161	115	88	573	14	0	16	0	4	122	128	61	290	9	0	0	0	0	65	304
+Unclassified Candidatus Eremiobacteraeota	0	46	0	0	0	0	0	0	0	21	0	0	0	0	0	14	0	6	6	0	0	0	0	20	7	6	28	0	0	8	0	0	18	0	0	6	0	0	0	0	0	0	0
+Unclassified Candidatus Falkowbacteria	9	402	19	46	0	35	40	0	0	34	0	38	0	0	0	62	0	10	0	0	7	14	32	186	152	122	78	0	0	42	0	66	100	33	0	105	0	51	0	0	8	4	42
+Unclassified Candidatus Fermentibacteria	138	481	62	0	0	8	24	0	23	0	40	12	21	26	4	70	0	65	6	6	34	123	6	270	208	105	102	1	0	20	0	0	402	43	111	81	0	36	0	0	0	0	33
+Unclassified Candidatus Fermentibacteria (class)	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Firestonebacteria	0	14	2	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	8	0	0	0	0	0	6	4	2	0	0	0	0	0	15	5	8
+Unclassified Candidatus Fischerbacteria	0	10	2	0	0	0	0	0	0	0	0	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Fraserbacteria	0	6	0	0	0	0	0	0	0	0	0	0	0	4	4	0	0	8	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0
+Unclassified Candidatus Giovannonibacteria	11	6	0	12	2	0	0	0	0	0	0	4	0	0	0	0	0	12	0	0	0	16	0	0	38	0	38	0	0	18	0	6	0	1	4	0	0	0	0	0	0	0	30
+Unclassified Candidatus Glassbacteria	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	30	0	0	0	0	0	6	0	0	39	0	0	0	0	0	0	0
+Unclassified Candidatus Goldbacteria	0	0	0	0	0	0	0	0	11	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Gottesmanbacteria	0	99	23	38	0	0	8	8	0	0	40	12	0	0	0	8	0	0	0	0	4	0	2	5	3	0	36	0	50	24	0	0	0	0	0	43	0	0	0	0	0	0	0
+Unclassified Candidatus Gracilibacteria	4	63	12	20	0	84	34	6	350	31	10	132	6	10	1	12	0	4	0	0	9	6	36	960	5595	340	67	6	149	1235	52	6	168	20	9	44	0	20	0	0	116032	53724	39
+Unclassified Candidatus Handelsmanbacteria	13	20	4	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	10	0	0	0	27	0	0	18	0	0	8	41	8	66	0	0	0	0	55	0	0
+Unclassified Candidatus Harrisonbacteria	5	22	6	0	0	0	0	0	0	0	6	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	12	6	8	0	8	2	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Hydrogenedentes	26	415	17	78	0	20	3	0	0	16	0	45	38	63	36	238	0	37	0	0	2	32	2	84	74	27	382	54	324	199	18	14	65	96	111	404	0	22	16	0	55	10	93
+Unclassified Candidatus Hydrothermae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	10
+Unclassified Candidatus Jacksonbacteria	0	17	0	0	0	0	0	0	0	0	0	16	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	8	0	0	0	0	0	0	0
+Unclassified Candidatus Jorgensenbacteria	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0
+Unclassified Candidatus Kaiserbacteria	98	133	4	24	0	142	16	4	0	0	0	1194	5	9	6	16	0	86	18	2	2	27	3	157	189	134	70	0	0	48	60	0	54	33	28	124	0	26	10	0	72	158	137
+Unclassified Candidatus Kapabacteria	0	6	0	8	0	0	0	0	0	0	0	8	0	0	0	6	0	8	0	0	0	0	0	25	2	3	6	0	0	0	14	0	0	0	0	0	0	0	0	0	0	34	0
+Unclassified Candidatus Kerfeldbacteria	0	54	0	24	0	8	12	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	28	0	8	24	0	0	4	4	12	27	0	0	0	0	0	0	22
+Unclassified Candidatus Komeilibacteria	0	8	8	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	1	0	4	0	0	14	0	0	0	0	7
+Unclassified Candidatus Krumholzibacteria	2	88	6	0	0	0	0	0	0	0	0	0	10	22	0	6	0	72	4	0	0	6	0	40	40	24	167	0	0	0	0	4	9	10	4	34	0	0	0	0	0	16	0
+Unclassified Candidatus Krumholzibacteriota	7	82	4	32	0	0	0	0	0	0	0	0	4	6	0	33	0	10	0	0	0	0	0	35	17	48	26	0	21	44	0	0	0	0	0	16	0	0	0	0	199	0	86
+Unclassified Candidatus Kryptonia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0
+Unclassified Candidatus Kuenenbacteria	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Lambdaproteobacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	2	0	8	0	4	0	0	0	0	0	0	2	0	0	16	0	0	20	0	0	0	0	0	0	0
+Unclassified Candidatus Latescibacteria	14	400	14	42	6	4	12	0	26	12	4	10	35	37	29	246	18	92	6	11	6	42	10	9	18	3	332	31	0	36	0	0	53	22	50	380	0	30	0	0	120	30	342
+Unclassified Candidatus Levybacteria	144	2750	214	96	35	35	15	4	202	12	401	18	63	41	14	560	55	23	22	19	16	134	58	21	31	13	569	34	32	157	0	0	214	75	27	36	0	0	67	0	0	0	0
+Unclassified Candidatus Limnocylindria	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Lindowbacteria	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	22	0	0	0	0	0	6	15	3	20	3	0	0	0	0	51	11	5	12	0	0	0	0	0	0	0
+Unclassified Candidatus Liptonbacteria	0	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0
+Unclassified Candidatus Lloydbacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	7
+Unclassified Candidatus Magasanikbacteria	9	96	2	4	0	4	1	22	0	0	0	10	0	9	0	0	0	0	0	0	0	0	0	3	0	4	38	0	0	0	0	0	8	6	16	14	0	4	6	0	22	49	12
+Unclassified Candidatus Margulisbacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	46	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Marinamargulisbacteria	0	14	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Marinimicrobia	27	800	105	46	2	33	12	0	193	32	0	20	36	51	32	137	6	8	4	13	16	72	19	165	167	51	153	6	108	82	64	0	245	59	118	1652	32	99	0	0	116	60	313
+Unclassified Candidatus Melainabacteria	319	6896	32	57	0	4	10	10	88	0	16	136	4	0	2	0	10	4	2	0	8	32	2	17	5	14	66	0	0	53	6	0	32	12	4	180	0	18	0	5	77	13	61
+Unclassified Candidatus Microgenomates	0	56	2	13	0	51	8	0	0	0	0	0	0	0	0	44	0	0	0	0	4	2	2	45	38	22	46	0	0	8	0	6	10	20	7	40	10	0	0	0	16	0	0
+Unclassified Candidatus Moranbacteria	103	35864	88	118	0	44	0	0	123	0	0	206	0	4	4	248	0	28	17	3	8	26	16	32	27	6	171	18	12	81	0	12	69	94	61	12	0	34	0	0	79	49	134
+Unclassified Candidatus Muproteobacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	62	9	0	0	0	0	10	5	4	35	0	0	12	0	0	0	0	0	390	0	0	0	0	0	0	0
+Unclassified Candidatus Nealsonbacteria	6	374	26	81	2	0	0	0	0	0	0	34	18	37	10	217	5	14	0	6	16	16	2	218	144	164	222	21	62	55	0	0	63	47	66	291	0	0	0	0	26	34	10
+Unclassified Candidatus Niyogibacteria	0	26	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	12	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16
+Unclassified Candidatus Nomurabacteria	2	105	6	32	25	17	0	2	0	0	0	86	9	0	0	28	0	8	0	6	0	23	4	13	22	12	95	0	0	74	358	0	30	0	0	21	0	0	0	0	439	929	110
+Unclassified Candidatus Omnitrophica	38	409	18	163	0	43	32	12	13	29	51	59	22	40	14	213	18	74	7	29	20	86	19	269	206	231	457	6	22	94	22	19	260	208	243	1242	24	26	0	0	81	111	433
+Unclassified Candidatus Ozemobacteria	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Pacebacteria	492	516	4	287	0	32	0	4	0	0	0	114	0	0	0	68	0	8	0	2	4	4	0	4	8	0	29	3	0	18	0	0	39	8	0	0	0	0	12	0	8	0	15
+Unclassified Candidatus Parcubacteria	110	279	22	21	0	6	0	8	46	0	0	143	33	45	42	106	13	102	22	2	0	42	12	121	81	41	378	0	0	152	50	4	174	65	52	195	0	8	6	0	86	253	39
+Unclassified Candidatus Peregrinibacteria	78	289	77	4	0	4	36	0	35	0	15	6	14	12	2	16	0	36	0	0	0	46	22	88	61	39	113	0	0	79	0	6	57	36	82	42	22	12	0	0	18	25	83
+Unclassified Candidatus Peribacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	14	0	32	0	0	0	0	0	8	0	0	12	0	0	0	0	0	0	0
+Unclassified Candidatus Poribacteria	41	678	22	170	6	0	20	2	0	0	0	20	71	100	25	115	4	38	6	18	44	76	92	160	119	83	424	26	421	383	0	36	253	128	106	736	49	162	2	0	94	32	209
+Unclassified Candidatus Portnoybacteria	0	22	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	15	0	0	0	0	0	30	2
+Unclassified Candidatus Raymondbacteria	4	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0
+Unclassified Candidatus Riflebacteria	4	76	18	6	0	4	4	4	0	0	0	0	0	0	0	110	0	93	54	0	0	0	0	15	17	0	22	0	0	44	0	0	6	4	0	40	0	8	0	0	38	0	28
+Unclassified Candidatus Riflemargulisbacteria	2	10	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	12	0	4	3	2	0	14	0	0	12	0	0	2	6	0	48	0	6	0	0	2	0	20
+Unclassified Candidatus Roizmanbacteria	2	206	24	77	0	8	0	0	0	17	0	97	0	4	2	203	0	0	0	0	0	0	0	7	17	3	50	0	0	107	0	0	23	8	19	6	0	6	4	0	14	18	11
+Unclassified Candidatus Rokubacteria	59	1027	59	91	20	62	850	305	0	70	24	177	131	138	48	1274	10	207	13	32	22	108	56	180	144	66	2497	72	178	343	12	17	296	215	144	2688	0	26	10	0	99	39	805
+Unclassified Candidatus Ryanbacteria	0	46	0	0	0	0	0	0	0	0	0	8	0	0	0	18	0	0	0	0	0	2	4	0	2	3	20	0	0	8	0	0	0	4	6	0	0	0	0	0	0	0	0
+Unclassified Candidatus Saccharibacteria	8408	33664	6638	24474	29	34493	14929	2407	20	21578	234	19080	347	282	250	8067	15	7049	4819	46	79	450	755	1906	3262	477	2238	278	2406	31645	68	441	2780	1100	5845	745	35	584	23707	10	20227	27907	293
+Unclassified Candidatus Saccharimonia	0	0	0	0	0	11	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Schekmanbacteria	7	37	0	37	0	6	12	0	8	0	0	6	2	8	2	10	8	12	1	0	0	0	0	28	28	8	63	0	0	10	0	0	18	9	10	137	0	8	0	0	0	0	0
+Unclassified Candidatus Sericytochromatia	0	0	0	4	2	0	2	0	0	0	0	0	6	8	4	0	0	2	4	6	10	26	4	35	50	23	4	0	0	18	14	0	0	0	0	15	0	0	0	0	0	0	28
+Unclassified Candidatus Shapirobacteria	24	37	0	0	0	8	0	0	0	0	0	0	4	9	3	343	0	6	0	0	0	0	0	6	3	1	0	0	0	4	0	0	0	0	0	0	0	4	2	0	0	18	0
+Unclassified Candidatus Spechtbacteria	0	10	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Staskawiczbacteria	23	33	21	0	2	1	1	6	0	13	9	0	10	18	15	12	19	11	30	23	18	4	26	914	1058	1170	100	416	262	118	0	0	0	0	0	0	727	127	243	0	0	15	0
+Unclassified Candidatus Sumerlaeia	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Sumerlaeota	208	3553	175	828	39	46	50	34	71	101	16	155	274	328	153	1776	36	451	125	79	116	337	167	804	901	494	2637	177	244	704	20	340	960	289	410	2336	37	102	64	16	4736	763	2792
+Unclassified Candidatus Sungbacteria	0	0	0	10	0	0	0	0	0	0	0	16	12	4	2	0	0	0	0	2	4	6	2	0	0	0	28	0	0	8	0	0	22	0	0	0	0	0	0	0	24	0	0
+Unclassified Candidatus Tagabacteria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0
+Unclassified Candidatus Taylorbacteria	0	0	0	8	0	0	0	0	0	0	0	6	0	0	0	0	0	9	2	0	0	0	0	6	0	0	0	0	0	12	8	0	0	0	0	0	0	0	0	0	0	28	0
+Unclassified Candidatus Tectomicrobia	13	592	27	11	0	22	284	2	0	0	82	730	28	16	12	200	0	25	2	0	4	4	0	70	63	22	298	2	90	173	0	0	70	33	99	1720	12	24	6	0	117	6	101
+Unclassified Candidatus Termititenacia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Terrybacteria	2	50	4	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	7	0	0	8	0	8	0	0	0	0	0
+Unclassified Candidatus Thermofonsia	0	66	4	6	0	175	160	166	0	0	0	0	4	8	0	126	0	0	0	0	23	0	12	2	0	2	95	0	38	33	0	0	8	4	29	65	0	0	0	0	0	0	123
+Unclassified Candidatus Uhrbacteria	21	390	6	39	0	10	0	0	0	17	0	0	20	20	10	18	0	10	0	0	17	14	4	10	8	16	121	42	0	6	0	0	184	9	10	88	2	8	6	0	38	40	12
+Unclassified Candidatus Veblenbacteria	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Vogelbacteria	1	72	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	8	0	0	0	0	0	22	43
+Unclassified Candidatus Wallbacteria	0	30	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	6	17	10	0	0	0	0	4	0	0	0	0	0	0	0	79	0	0	0	0	0	0	0
+Unclassified Candidatus Wildermuthbacteria	0	24	0	4	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Wirthbacteria	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Woesebacteria	33	370	32	125	4	34	3	0	140	48	4	22	44	83	11	120	6	50	12	4	6	58	6	2	2	2	163	51	82	61	0	13	81	71	62	166	0	0	6	0	392	0	15
+Unclassified Candidatus Wolfebacteria	19	53	2	6	0	0	0	0	0	0	0	56	0	4	2	10	0	16	0	0	0	0	0	16	9	6	28	20	0	4	0	0	0	0	0	61	0	0	0	0	0	19	15
+Unclassified Candidatus Woykebacteria	0	40	2	0	0	10	0	0	0	0	0	6	0	0	0	41	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Candidatus Yanofskybacteria	2	79	21	22	2	0	0	10	0	0	0	0	0	0	0	0	0	20	0	9	10	16	12	0	8	0	50	2	0	6	10	0	0	2	8	0	10	0	0	0	0	23	6
+Unclassified Candidatus Yonathbacteria	0	13	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	6	0	0	0	0	0	8	0	0	0	0	0	0	6
+Unclassified Candidatus Zambryskibacteria	2	18	2	0	0	0	0	0	0	0	0	0	5	0	2	4	0	0	0	0	0	0	0	29	6	3	18	0	0	4	12	0	30	0	0	0	0	0	0	0	0	13	24
+Unclassified Chitinispirillia	0	0	0	0	0	9	3	1	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	8	1	0	10	0	0	4	0	0	0	0	0	6	0	0	0	0	0	0	0
+Unclassified Chitinivibrionia	17	40	2	0	0	0	0	0	0	0	0	0	3	4	2	6	0	0	0	0	0	0	0	2	11	7	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0
+Unclassified Chitinophagia	142	787	300	499	0	84	63	54	4	180	0	8194	360	292	350	301	2	329	2	2	22	67	24	266	231	144	1834	122	10	361	1098	116	238	41	64	122	138	52	34	7	2894	11802	7717
+Unclassified Chlamydiae	0	1032	38	1753	8	209	28	64	6	72	0	47	0	9	0	261	0	56	35	4	4	36	10	226	43	19	496	67	427	236	0	14	91	60	65	170	0	25	61	0	32	48	32
+Unclassified Chlamydiia	13	738	18	94	0	32	55	48	0	0	0	60	4	17	3	14	0	15	3	0	0	0	0	0	0	0	208	260	100	60	0	16	0	8	0	8	6	44	0	0	0	0	14
+Unclassified Chlorobi	106	3074	185	63	2	9	5	18	113	31	65	62	13	24	8	122	0	42	0	12	67	1747	24	119	132	64	105	22	146	95	23	8	164	59	81	485	29	26	0	32	100	116	123
+Unclassified Chlorobia	4	112	10	30	0	41	2	10	0	0	0	56	0	0	0	0	0	6	0	0	0	0	0	40	34	18	8	0	0	0	8	0	66	22	113	83	6	0	0	0	0	0	0
+Unclassified Chloroflexi	9280	974508	37368	7789	16802	8838	13383	22394	587	1681	1191	8085	70727	48086	27031	93692	577	16650	4369	9675	6184	33973	9521	45940	37669	18532	670208	16825	112492	154553	658	1445	41185	79607	107687	167954	36622	328	1946	0	242699	3835	213380
+Unclassified Chloroflexia	31	1482	44	368	6	899	1016	9109	72	238	14	268	25	86	10	95	0	20	0	16	22	61	102	146	105	45	1625	41	336	859	0	4	330	422	154	187	14	14	50	0	452	67	153
+Unclassified Chrysiogenetes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	6	2	0	0	0	0	0	0	0	0	0
+Unclassified Chthonomonadetes	0	0	0	0	0	0	0	0	0	0	14	0	11	8	0	15	0	0	0	0	0	0	0	0	0	0	0	0	8	10	0	0	0	4	3	0	0	0	0	0	38	6	0
+Unclassified Clostridia	2015	17361	1467	24554	53	647957	8574	117026	19311	15032	35605	59079	338	923	223	118475	6699	1719	42149	3016	3274	12391	18331	24415	29904	11943	52237	12709	773	34991	9461	850	11083	1769	14662	113861	13690	857	1193	6044	123983	92591	199991
+Unclassified Coriobacteriia	2	44	20	35	6	56	25	8	0	0	0	69	0	0	2	18	2	0	6	2	0	14	4	8	14	2	367	90	25	46	0	0	8	0	0	36	0	0	0	0	957	344	1571
+Unclassified Cyanobacteria	16125	40370	15508	17683	614	33625	18025	45435	5354	6552	3883	21152	35437	90855	21385	59822	3562	12702	8300	34694	14073	26621	15393	105046	97838	70844	173886	15000	41052	241207	1673	13449	174646	111953	71904	59101	7840	4379	7482	10	11202	7501	15795
+Unclassified Cytophagia	719	3606	1036	2083	65	164	189	101	695	359	910	5952	414	556	177	7531	197	1062	939	262	452	1726	518	7872	5838	4119	2124	814	792	2975	528	1101	6933	1946	2516	3854	675	1407	100	124	1404	3822	1836
+Unclassified Deferribacteres	3	437	0	0	0	8	16	4	0	0	0	38	0	0	6	0	0	0	0	0	0	0	0	33	29	44	36	0	0	0	0	0	1	8	3	28	0	0	0	50	13	6	34
+Unclassified Dehalococcoidia	51	1085	46	18	0	10	14	1727	24	0	30	52	44	89	17	176	6	127	41	0	10	29	22	304	269	161	735	8	42	240	0	127	314	269	182	475	0	25	2	0	145	35	190
+Unclassified Deinococci	4	678	11	31	12	17	0	8	0	14	0	21	100	66	39	97	20	34	81	27	2	47	11	70	66	29	155	25	102	190	6	0	45	67	55	297	0	0	0	0	112	29	104
+Unclassified Deinococcus-Thermus	18	637	31	45	2	52	26	29	0	7	0	20	63	26	6	142	0	95	8	4	6	26	16	75	41	20	66	6	50	124	0	8	146	61	94	252	8	0	0	0	58	68	151
+Unclassified Deltaproteobacteria	20580	287731	35539	6435	7144	1930	1540	941	16128	1439	1427	17361	60364	88092	30708	46464	1362	82714	20482	6624	18198	38725	21014	133522	94539	62857	168819	6959	28652	42025	444	3681	74447	50404	57084	400319	909	712	1546	0	958612	943807	1119283
+Unclassified Dictyoglomi	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	64	0	0	0
+Unclassified Dictyoglomia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Elusimicrobia	50	455	15	83	84	10	10	0	0	4	0	60	22	26	10	20	0	36	10	6	2	58	11	34	39	10	367	0	146	51	24	0	36	45	39	243	26	0	6	0	1860	609	3020
+Unclassified Endomicrobia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Epsilonproteobacteria	1184	3419	1101	1869	197	18808	7037	5296	1245	1061	1073	4266	999	952	1042	2727	550	1405	2562	1636	3202	1380	1663	1886	1869	1181	3199	956	516	4034	1576	1362	1162	2290	832	2912	1404	1613	871	430	14107	1530	11628
+Unclassified Erysipelotrichia	31	259	59	154	0	438	125	634	217	153	4	364	5	2	0	956	121	963	3000	484	469	2365	1198	132	46	29	20038	32304	0	16	303	70	225	135	77	191	15	2	47	91	303	33	91
+Unclassified Fibrobacteres	51	600	36	6	2	22	19	0	0	105	0	4	12	13	10	176	8	16	4	6	0	14	10	6	19	6	124	9	0	22	0	0	53	19	35	136	0	26	6	0	20	12	44
+Unclassified Fibrobacteria	1	38	28	26	0	20	0	0	0	0	0	26	0	6	2	0	0	0	0	0	0	0	0	14	1	1	0	0	0	10	0	0	0	0	0	44	0	0	0	0	0	0	0
+Unclassified Fimbriimonadia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	10	0	0	0	0	0	0	0
+Unclassified Firmicutes	17708	85947	18087	189583	706	3836158	64559	611076	47478	75807	113556	275969	4487	8603	3055	330653	24687	22535	572986	15961	18938	63582	71780	728049	672533	256369	207629	175417	75711	2533277	206919	15214	72157	51597	101968	1038308	57022	5424	11580	397403	906619	358292	1402766
+Unclassified Flavobacteriia	4297	25548	30184	11784	1689	5508	5724	3566	3546	3660	3848	15933	8216	7780	6416	36050	2391	6617	5984	5691	11693	20372	7123	48314	37569	21876	4716	12876	5311	57411	79804	5412	85455	22522	33857	54137	12263	12563	5702	240	54281	240418	42944
+Unclassified Fusobacteria	9	51106	36	7943	0	1371	95	415	0	103	34	85	8	21	2	162	27	21	95	8	14	148	139	28	33	2	99	221	0	23	1	0	194	51	1128	86	71	2260	8	114	3973	48250	10117
+Unclassified Fusobacteriia	4	46375	30	6868	0	630	46	177	99	107	0	365	0	2	10	42	10	12	35	14	7	55	98	103	133	17	92	18	0	6	9	10	224	164	1953	109	147	3196	4	577	4243	47867	7078
+Unclassified Gammaproteobacteria	236273	1412800	129094	422833	49223	177461	47030	41754	131352	245201	98131	331618	634668	666703	285738	1591465	373303	863259	88477	90037	136894	219133	128083	1242739	961575	634980	1680447	87604	173374	250428	1530047	226908	1584581	659179	1194022	3283661	106608	241532	77845	12778	175958	83803	197520
+Unclassified Gemmatimonadetes	1955	85679	3059	3609	980	4610	1116	206	0	193	129	544	14777	14932	6486	99605	115	8409	726	3301	3612	11376	4297	35253	25801	17998	23524	3750	10291	10731	0	1682	50608	25571	7521	3408	87	257	144	0	977	1390	6602
+Unclassified Gloeobacteria	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	2	4	4	36	0	0	0	0	0	18	10	8	0	0	0	0	0	0	0	0
+Unclassified Holophagae	22	820	68	41	6	0	0	0	0	6	0	33	128	166	96	308	10	546	34	13	10	76	22	57	34	24	3628	43	26	52	0	5	236	171	19	79	6	0	0	0	10	80	421
+Unclassified Hydrogenophilalia	0	16	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	2	0	0	4	4	0	11	0	0	0	0	0	0	0
+Unclassified Ignavibacteria	149	985	377	383	0	81	2	34	62	26	0	91	17	42	7	361	4	98	10	87	122	426	135	268	252	142	1150	161	114	58	45	51	289	105	90	317	10	54	0	8	148	259	672
+Unclassified Ignavibacteriae	52	720	248	336	13	75	24	23	241	375	0	50	123	117	108	356	2	333	65	104	163	248	125	462	433	275	1310	91	162	377	14	103	459	109	117	308	120	83	19	0	30	401	909
+Unclassified Kiritimatiellae	41	1182	64	78	47	0	0	0	9	0	0	46	33	51	33	200	0	16	2	32	12	73	17	168	101	59	183	16	65	76	0	10	142	151	235	751	0	296	0	0	572	2	65
+Unclassified Kiritimatiellaeota	93	2151	130	98	10	14	0	0	97	0	0	20	283	167	305	153	6	2	0	10	23	30	18	175	85	24	155	0	20	60	0	0	83	51	247	582	0	1249	0	0	57	55	4077
+Unclassified Ktedonobacteria	2	160	16	0	4	22	12	83	0	0	0	0	0	4	0	10	2	2	2	0	2	14	2	11	0	0	97	4	14	32	0	0	22	6	0	161	14	0	0	0	20	0	0
+Unclassified Lentisphaerae	86	1203	66	191	2	641	16	38	47	11	0	74	51	53	22	549	2	54	2	0	4	18	12	201	136	110	479	6	36	281	42	6	898	261	1095	585	8	102	13	0	8200	2564	13278
+Unclassified Lentisphaeria	12	121	4	11	8	0	0	0	0	0	0	32	32	33	20	165	0	22	9	17	22	30	8	132	63	40	127	17	0	32	0	6	156	104	155	253	0	30	0	0	43	17	851
+Unclassified Limnochordia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Longimicrobia	0	0	0	0	0	76	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	8	0	0	0	0	0	0	0	0	0
+Unclassified Mollicutes	317	952	105	17211	4	270323	301642	93839	199	2396	51	40206	275	548	153	2732	52	404	474	251	112	467	853	24157	31876	6865	15287	315	328	16439	4723790	192534	242160	336061	100707	1282	268366	105	9252	2386	2587942	886732	4622430
+Unclassified Negativicutes	10	72	368	135	27	655	16	188	22	58	25	44	0	8	0	32	0	0	0	13	597	16	894	271	160	139	164	82	0	23	0	277	16	10	3	27	0	0	0	0	29	9	0
+Unclassified Nitriliruptoria	100	25188	955	30	2	166	264	136	6	0	14	10	90	63	29	437	0	21	0	40	33	55	19	278	231	135	1921	10	10499	21162	0	30	26	49	43	114	0	0	32	0	28	8	35
+Unclassified Nitrospinae	12	327	19	52	10	6	1309	0	0	0	0	22	128	114	30	88	0	64	13	7	17	33	20	79	39	32	194	0	0	132	40	10	91	65	52	524	26	32	0	0	124	0	70
+Unclassified Nitrospinia	0	30	12	0	0	0	0	0	0	0	0	0	2	6	2	10	0	4	0	0	0	0	0	3	6	6	57	0	0	0	0	0	9	6	6	42	0	0	0	0	0	0	42
+Unclassified Nitrospira	53	597	23	1274	22	44	37	31	0	12	3	50	114	150	53	183	6	254	42	16	56	101	54	121	91	51	1115	25	72	74	6167	52	245	152	88	1647	95	23	8	0	156	984	423
+Unclassified Nitrospirae	189	4307	304	279	260	49	50	56	38	26	67	307	1368	1345	637	2876	32	1509	209	254	171	1681	573	1390	1042	734	15554	260	339	774	24225	100	3437	2616	1398	3701	274	80	16	19	77	679	2843
+Unclassified Oligoflexia	0	287	10	127	0	40	102	35	44	18	0	471	29	28	4	62	0	26	27	10	38	4	180	158	166	93	173	21	18	148	0	8	48	47	132	292	0	126	0	0	124	120	130
+Unclassified Opitutae	171	2590	204	1218	30	68	28	4	0	251	12	437	1681	1796	898	588	4	131	24	416	199	332	136	380	221	217	1284	163	728	935	17	50	2308	1645	2767	2845	25	153	0	0	56	98	172
+Unclassified Phycisphaerae	302	57055	237	655	57	275	25	46	0	59	22	203	798	652	351	1787	141	907	528	236	369	638	352	1760	1254	867	2494	51	637	986	34	148	3682	2614	14726	4141	251	775	25	10	466	773	20315
+Unclassified Planctomycetes	4795	308687	11983	71999	2700	5542	3200	1463	222	1877	4925	27667	32832	25040	19759	129679	21133	10967	1298	3772	3324	18960	5462	103041	75502	50465	347624	10075	124589	279876	7085	8107	74975	78485	85889	400188	467	5750	3306	70	1717269	38898	324883
+Unclassified Planctomycetia	2478	117974	7678	50010	1443	3633	1885	837	51	848	2730	15713	15222	12010	6403	69353	377	3334	409	1570	1298	11110	3057	63584	46875	30255	193546	4130	83581	196813	6018	2586	42954	48886	54913	308352	62	4157	1999	0	188332	26067	6741
+Unclassified Proteobacteria	183253	1238259	178167	295080	35474	126418	80987	51623	156639	228007	140981	288140	262132	264192	116887	713869	176264	600122	219948	65426	93478	170372	108056	904973	658942	343655	2139407	157596	164381	780567	2148163	129675	849238	361278	562546	2390311	90327	95942	100529	11836	893677	974213	1299945
+Unclassified Rhodothermaeota	3	173	0	0	8	0	0	0	0	8	0	0	26	23	16	50	11	6	0	12	8	31	22	19	2	3	161	3	0	16	8	0	24	10	19	51	0	0	0	0	0	82	33
+Unclassified Rhodothermia	6	38	4	0	0	0	0	0	0	0	4	0	0	0	0	18	8	56	2	4	15	20	4	9	15	7	32	0	0	2	0	0	45	14	11	26	0	0	0	0	0	528	75
+Unclassified Rubrobacteria	2	255	2	0	0	4	34	2368	0	11	0	0	0	0	0	46	0	0	0	0	0	0	0	0	0	0	26	0	0	12	26	0	0	25	0	12	0	0	0	0	0	0	0
+Unclassified Saprospiria	124	1467	197	650	44	21	27	2	0	59	0	163	159	305	50	3701	10	88	24	120	407	915	288	3429	2975	1593	201	113	284	570	456	412	5331	1107	2517	227	4341	1573	21	0	4501	9529	360
+Unclassified Spartobacteria	16	559	67	139	20	71	34	0	0	6	0	78	23	20	1	38	0	0	7	9	8	71	16	15	11	0	417	4	28	40	0	14	96	33	8	58	0	8	0	0	0	8	92
+Unclassified Sphingobacteriia	77	871	261	99	10	1764	119	88	463	78	0	895	14	9	0	1387	6	36	18	58	33	111	78	173	145	68	240	5	72	123	384	4	430	146	260	317	75	170	60	46	359	347	501
+Unclassified Spirochaetes	2235	64184	3424	1354	15	990	272	349	9354	1511	49	610	186	212	58	868	18	44	236	1383	4628	429	22286	176907	137201	26540	3939	117	96	268	76	85	30951	8545	14669	2256	127	343	43	8866	517961	161960	854953
+Unclassified Spirochaetia	729	5643	1130	212	6	263	59	185	2967	286	0	197	36	51	8	492	2	22	37	1617	6347	127	34827	72190	54856	10788	2186	156	47	66	0	52	9200	2318	6312	268	12	30	6	758	317174	97626	519429
+Unclassified Synergistetes	0	26	2	58	0	20	6	10	58	0	0	0	0	0	0	97	0	23	16	2	2	0	2	0	0	0	143	25	0	0	0	0	12	0	24	27	15	26	0	0	0	0	0
+Unclassified Synergistia	0	9	0	0	0	12	0	0	0	11	0	0	0	0	0	0	0	0	0	18	4	104	21	2374	1467	511	38	0	8	4	0	0	0	0	0	8	20	0	0	0	12	4	4
+Unclassified Tenericutes	277	1298	140	89874	0	455414	108422	66387	1844	42790	432	11699	513	1419	288	2798	72	271	255	86	206	329	3041	9212	7311	2333	25437	535	20	1417	1404834	234098	168961	166127	87547	1686	16671	51	788803	753	1116171	458919	2922695
+Unclassified Tepidiformia	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Terrimicrobia	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	1	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unclassified Thermoanaerobaculia	13	457	16	87	1	6	6	0	0	23	14	50	77	73	47	299	2	636	36	14	10	82	34	38	65	25	24024	238	0	40	0	34	164	140	28	32	0	0	0	0	4	184	788
+Unclassified Thermodesulfobacteria	22	25	9	28	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	11	1	2	16	0	0	4	0	0	25	6	2	91	0	0	0	0	0	0	0
+Unclassified Thermoflexia	0	45	0	0	0	0	2	10	0	0	0	8	2	6	0	0	0	0	0	6	0	2	0	0	0	0	72	0	0	0	0	0	8	0	10	14	88	0	0	0	0	2	76
+Unclassified Thermoleophilia	555	106240	3080	191	32	2737	5446	2744	2	176	169	1136	489	197	134	937	30	46	0	69	22	288	87	390	471	315	15679	394	17049	27803	0	62	446	780	652	930	8	4	579	0	107	12	262
+Unclassified Thermomicrobia	0	62	0	0	0	0	0	16	0	0	0	0	1	1	0	161	0	0	0	0	2	0	8	0	0	0	41	0	0	33	0	0	1	11	17	36	0	0	0	0	0	0	0
+Unclassified Thermotogae	8	303	4	111	0	93	181	152	12	0	0	73	8	8	4	357	0	0	10	6	6	35	35	21	51	2	226	0	32	42	5	44	31	1	50	76	45	62	0	3	4940	518	3352
+Unclassified Tissierellia	0	100	4	38	0	240	16	170	26	42	23	33	6	7	0	441	32	0	15	2	4	44	16	121	90	131	144	14	0	0	0	0	25	2	28	188	30	54	9	10	254	68	132
+Unclassified Verrucomicrobia	2005	109488	7398	116087	2816	5592	5060	546	144	2154	481	27946	8195	7088	2806	40904	266	4467	458	2238	1208	10452	2946	23197	14797	10985	188601	4146	9236	13283	2537	3369	17968	12430	12564	69791	581	2080	234	4	4111	1995	8699
+Unclassified Verrucomicrobiae	262	5918	469	33096	33	356	201	24	0	240	379	4018	391	349	108	9605	18	442	87	43	58	399	118	6269	3627	2731	39879	736	1571	2639	919	1135	2928	1376	2550	20453	55	295	26	0	2415	352	867
+Unclassified Vicinamibacteria	8	150	8	2454	2	7	10	6	0	84	6	616	44	71	22	39	4	100	2	0	4	20	10	24	9	16	15420	26	0	24	0	0	64	68	22	236	0	0	0	0	0	2	134
+Unclassified Zetaproteobacteria	54	129	70	29	232	18	44	49	8	39	21	67	39	36	8	90	34	47	15	109	110	82	77	113	132	109	204	2	28	50	11	8	46	27	28	175	35	332	1186	0	67	16	4
+unidentified bacterial (no order in NCBI)	4	42	2	0	2	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	1	4	12	5	3	4	0	0	0	10	0	0	18	23	18	0	0	4	4	0	0	0	0
+Vampirovibrionales	0	0	0	0	0	38	2	18	0	0	0	0	0	0	0	40	0	0	0	0	0	16	0	2	2	1	16	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0
+Veillonellales	13	92	40	31	3	73	22	63	0	18	34	111	0	0	0	30	0	10	2	0	84	21	103	0	10	2	18	0	158	137	0	20	8	95	8	24	38	0	16	0	40	39	47
+Verrucomicrobia bacterium (no order in NCBI)	8	651	45	907	17	118	1805	69	0	26	0	290	67	66	17	114	0	93	11	8	10	41	14	95	70	31	2558	16	370	155	0	12	92	68	83	888	0	223	0	0	117	8	8
+Verrucomicrobiae bacterium (no order in NCBI)	5	459	26	78	29	0	0	0	0	0	0	6	14	12	0	77	0	0	0	8	0	62	10	65	27	35	188	0	92	98	0	0	15	17	8	9	0	0	0	0	0	0	8
+Verrucomicrobiales	453	23340	1706	96777	179	1261	659	113	46	1242	176	11485	2568	2490	832	113595	103	1462	266	278	378	1755	656	43399	30256	22988	131159	4529	8103	12584	7736	9456	16506	8824	14627	281033	196	1162	197	0	9232	1424	3788
+Vibrionales	4495484	25366591	1041696	11015818	1479042	1658267	35665	12082	790446	44850	143034	1376912	3295	3516	1941	6250	11141	5539166	222367	173164	710911	301311	500798	15645	6748	5359	26358	142085	376904	1177969	36173355	1201256	1035113	7386693	2997889	8551340	3197172	45757	190094	691759	4793819	8176795	3910066
+Vicinamibacteraceae (no order in NCBI)	10	46	0	786	6	6	37	0	0	26	0	44	0	0	0	0	0	0	0	0	0	12	2	0	0	0	2790	30	0	8	0	0	5	4	7	47	0	0	0	0	0	0	62
+Vicinamibacteria bacterium (no order in NCBI)	0	0	0	80	0	0	0	0	0	14	0	290	2	0	4	0	0	12	0	0	0	0	0	0	0	0	617	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0
+Victivallales	61	63	0	0	0	15	6	4	162	0	0	0	0	0	0	0	0	0	0	0	22	0	0	7	2	0	6	0	0	16	0	0	4	2	14	0	0	0	0	0	0	0	0
+Wohlfahrtiimonas (no order in NCBI)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3595	0	0	0	0	0	0	0	0	0	0	0	0
+Xanthomonadales	26345	344303	26234	62907	3298	16802	9942	4530	12814	424218	72228	419812	39464	37066	17527	383499	3084	109448	18381	12239	18569	21013	12519	171041	131101	79193	204362	6818	15878	17578	188	50064	324282	78570	244939	67683	10930	37244	15061	0	33219	35885	40519
+Zetaproteobacteria bacterium (no order in NCBI)	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	83	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0
