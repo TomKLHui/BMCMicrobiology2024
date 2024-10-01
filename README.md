@@ -1,7 +1,7 @@
 # Metagenomic analysis of gut microbiome illuminates the mechanisms and evolution of lignocellulose degradation in mangrove herbivorous crabs.
 
 [Access this dataset on ncbi SRA, TSA and github](PRJNA1017629, , https://github.com/TomKLHui/BMCMicrobiology2024/, https://doi.org/10.5061/dryad.s7h44j1d4)
-
+[Access this paper on BMC Microbiology](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-024-03209-4)
 This dataset contains the assembled metagenomes of 43 gut microbiome biological samples in 23 species of mangrove crabs in Hong Kong collected during 2019-2021. The raw metagenomic reads are available at NCBI SRA under accession PRJNA1017629. The assembly was conducted using MEGAHIT 1.2.9, and available in NCBI TSA. The unnormalized bacterial read counts tables on bacterial phyla and functional features in CAZy (release V10, 07292021) and KEGG databases (release v58) were generated using an integrated pipeline SqueezeMeta v1.4.0, which includes ORF prediction with Prodigal v2.6.3, taxonomic/functional read annotation with DIAMOND v2.0.8.146, and read mapping to annotations with Bowtie2 v2.3.4.1.
 
 The raw count table were further processed using SQMtools to filter only bacterial read counts. To repeat the analysis, CoDaSeq package should be used to remove features with average <1000 counts.
